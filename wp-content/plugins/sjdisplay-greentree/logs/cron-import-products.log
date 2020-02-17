@@ -1,0 +1,826 @@
+2018-09-27 09:19:27am - Attempting to run script cron-import-products.php
+2018-09-27 09:19:27am - Attempting API call StockItem with params: page=1&pageSize=30&isActive=true&customer=20021
+2018-09-27 09:19:33am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-09-27 09:19:33am - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:33am - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:33am - Attempting API call StockItem/A-AHA5 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:33am - API call for StockItem/A-AHA5 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:33am - Attempting API call StockItem/A-ESS with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:34am - API call for StockItem/A-ESS OK! Response code: 200. Response message: OK
+2018-09-27 09:19:34am - Attempting API call StockItem/A-SHA4 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:34am - API call for StockItem/A-SHA4 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:34am - Attempting API call StockItem/A-SHA5 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:34am - API call for StockItem/A-SHA5 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:34am - Attempting API call StockItem/B-FSA4 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:35am - API call for StockItem/B-FSA4 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:35am - Attempting API call StockItem/B-FSDL with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:35am - API call for StockItem/B-FSDL OK! Response code: 200. Response message: OK
+2018-09-27 09:19:35am - Attempting API call StockItem/B-WDL with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:35am - API call for StockItem/B-WDL OK! Response code: 200. Response message: OK
+2018-09-27 09:19:35am - Attempting API call StockItem/C-ACCP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:36am - API call for StockItem/C-ACCP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:36am - Attempting API call StockItem/C-ACHP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:36am - API call for StockItem/C-ACHP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:36am - Attempting API call StockItem/C-AJHP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:37am - API call for StockItem/C-AJHP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:37am - Attempting API call StockItem/C-ARPH with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:37am - API call for StockItem/C-ARPH OK! Response code: 200. Response message: OK
+2018-09-27 09:19:37am - Attempting API call StockItem/C-AWCP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:37am - API call for StockItem/C-AWCP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:37am - Attempting API call StockItem/C-AWH100P10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:37am - API call for StockItem/C-AWH100P10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:37am - Attempting API call StockItem/C-AWH150P10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:38am - API call for StockItem/C-AWH150P10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:38am - Attempting API call StockItem/C-AWH300P10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:38am - API call for StockItem/C-AWH300P10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:38am - Attempting API call StockItem/C-AWH600P10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:39am - API call for StockItem/C-AWH600P10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:39am - Attempting API call StockItem/C-AWH900P10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:39am - API call for StockItem/C-AWH900P10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:39am - Attempting API call StockItem/D-GFF75RT with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:39am - API call for StockItem/D-GFF75RT OK! Response code: 200. Response message: OK
+2018-09-27 09:19:39am - Attempting API call StockItem/D-GFSHHD75 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:40am - API call for StockItem/D-GFSHHD75 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:40am - Attempting API call StockItem/D-GHHP20 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:40am - API call for StockItem/D-GHHP20 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:40am - Attempting API call StockItem/D-HSSPWEP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:40am - API call for StockItem/D-HSSPWEP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:40am - Attempting API call StockItem/D-HT400 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:41am - API call for StockItem/D-HT400 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:41am - Attempting API call StockItem/D-SHMHP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:41am - API call for StockItem/D-SHMHP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:41am - Attempting API call StockItem/D-STCP100 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:41am - API call for StockItem/D-STCP100 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:41am - Attempting API call StockItem/F-AHCW with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:42am - API call for StockItem/F-AHCW OK! Response code: 200. Response message: OK
+2018-09-27 09:19:42am - Attempting API call StockItem/F-APSA4P with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:42am - API call for StockItem/F-APSA4P OK! Response code: 200. Response message: OK
+2018-09-27 09:19:42am - Attempting API call StockItem/F-APSA5P with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:42am - API call for StockItem/F-APSA5P OK! Response code: 200. Response message: OK
+2018-09-27 09:19:42am - Attempting API call StockItem/F-ASLC with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:43am - API call for StockItem/F-ASLC OK! Response code: 200. Response message: OK
+2018-09-27 09:19:43am - Attempting API call StockItem/F-BS300 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:43am - API call for StockItem/F-BS300 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:45am - Attempting to run script cron-import-products.php
+2018-09-27 09:19:45am - Attempting API call StockItem with params: page=2&pageSize=30&isActive=true&customer=20021
+2018-09-27 09:19:50am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-09-27 09:19:50am - Attempting API call StockItem/F-BSP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:51am - API call for StockItem/F-BSP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:51am - Attempting API call StockItem/F-BTS600 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:51am - API call for StockItem/F-BTS600 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:51am - Attempting API call StockItem/F-FA4PCR with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:51am - API call for StockItem/F-FA4PCR OK! Response code: 200. Response message: OK
+2018-09-27 09:19:51am - Attempting API call StockItem/F-FA5PCR with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:52am - API call for StockItem/F-FA5PCR OK! Response code: 200. Response message: OK
+2018-09-27 09:19:52am - Attempting API call StockItem/H-AICCP100 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:52am - API call for StockItem/H-AICCP100 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:52am - Attempting API call StockItem/H-FP150P10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:52am - API call for StockItem/H-FP150P10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:52am - Attempting API call StockItem/H-FP230P10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:53am - API call for StockItem/H-FP230P10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:53am - Attempting API call StockItem/H-FP75P10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:53am - API call for StockItem/H-FP75P10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:53am - Attempting API call StockItem/K-WFS with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:53am - API call for StockItem/K-WFS OK! Response code: 200. Response message: OK
+2018-09-27 09:19:53am - Attempting API call StockItem/P-SF490695INT with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:54am - API call for StockItem/P-SF490695INT OK! Response code: 200. Response message: OK
+2018-09-27 09:19:54am - Attempting API call StockItem/P-SF6001495 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:54am - API call for StockItem/P-SF6001495 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:54am - Attempting API call StockItem/P-SFA1 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:54am - API call for StockItem/P-SFA1 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:54am - Attempting API call StockItem/P-SFA2 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:55am - API call for StockItem/P-SFA2 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:55am - Attempting API call StockItem/P-SFA3 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:55am - API call for StockItem/P-SFA3 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:55am - Attempting API call StockItem/P-SFA4 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:55am - API call for StockItem/P-SFA4 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:55am - Attempting API call StockItem/P-SFA5 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:56am - API call for StockItem/P-SFA5 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:56am - Attempting API call StockItem/R-CDCHA4 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:56am - API call for StockItem/R-CDCHA4 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:56am - Attempting API call StockItem/R-SBLBE with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:56am - API call for StockItem/R-SBLBE OK! Response code: 200. Response message: OK
+2018-09-27 09:19:57am - Attempting API call StockItem/R-SBS with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:57am - API call for StockItem/R-SBS OK! Response code: 200. Response message: OK
+2018-09-27 09:19:57am - Attempting API call StockItem/R-WBBE with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:57am - API call for StockItem/R-WBBE OK! Response code: 200. Response message: OK
+2018-09-27 09:19:57am - Attempting API call StockItem/S-AT261200CRP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:58am - API call for StockItem/S-AT261200CRP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:58am - Attempting API call StockItem/S-AT26914CRP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:58am - API call for StockItem/S-AT26914CRP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:58am - Attempting API call StockItem/S-FA261200CRP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:58am - API call for StockItem/S-FA261200CRP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:58am - Attempting API call StockItem/S-FA26914CRP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:59am - API call for StockItem/S-FA26914CRP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:59am - Attempting API call StockItem/S-FS2650CRP10 with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:59am - API call for StockItem/S-FS2650CRP10 OK! Response code: 200. Response message: OK
+2018-09-27 09:19:59am - Attempting API call StockItem/S-PI26914BE with params: customer=20021&action=sellingPrice
+2018-09-27 09:19:59am - API call for StockItem/S-PI26914BE OK! Response code: 200. Response message: OK
+2018-09-27 09:20:01am - Attempting to run script cron-import-products.php
+2018-09-27 09:20:01am - Attempting API call StockItem with params: page=3&pageSize=30&isActive=true&customer=20021
+2018-09-27 09:20:06am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-09-27 09:20:06am - Attempting API call StockItem/Z-SGBCES with params: customer=20021&action=sellingPrice
+2018-09-27 09:20:06am - API call for StockItem/Z-SGBCES OK! Response code: 200. Response message: OK
+2018-09-27 09:20:06am - Attempting API call StockItem/Z-SGBRCS with params: customer=20021&action=sellingPrice
+2018-09-27 09:20:06am - API call for StockItem/Z-SGBRCS OK! Response code: 200. Response message: OK
+2018-09-27 09:20:06am - Attempting API call StockItem/Z-SGBW with params: customer=20021&action=sellingPrice
+2018-09-27 09:20:06am - API call for StockItem/Z-SGBW OK! Response code: 200. Response message: OK
+2018-09-27 09:20:06am - Attempting API call StockItem/Z-SGBWS with params: customer=20021&action=sellingPrice
+2018-09-27 09:20:07am - API call for StockItem/Z-SGBWS OK! Response code: 200. Response message: OK
+2018-09-27 09:20:07am - Attempting API call StockItem/Z-SGCDT1 with params: customer=20021&action=sellingPrice
+2018-09-27 09:20:07am - API call for StockItem/Z-SGCDT1 OK! Response code: 200. Response message: OK
+2018-09-27 09:20:07am - Attempting API call StockItem/Z-SGCDU with params: customer=20021&action=sellingPrice
+2018-09-27 09:20:08am - API call for StockItem/Z-SGCDU OK! Response code: 200. Response message: OK
+2018-09-27 09:20:08am - Attempting API call StockItem/Z-SGPHK with params: customer=20021&action=sellingPrice
+2018-09-27 09:20:08am - API call for StockItem/Z-SGPHK OK! Response code: 200. Response message: OK
+2018-09-27 09:20:08am - Attempting API call StockItem/Z-SGPP48X69 with params: customer=20021&action=sellingPrice
+2018-09-27 09:20:08am - API call for StockItem/Z-SGPP48X69 OK! Response code: 200. Response message: OK
+2018-09-27 09:20:10am - Attempting to run script cron-import-products.php
+2018-09-27 09:20:10am - Attempting API call StockItem with params: page=4&pageSize=30&isActive=true&customer=20021
+2018-09-27 09:20:11am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-10-31 04:41:36am - Attempting to run script cron-import-products.php
+2018-10-31 04:41:36am - Attempting API call StockItem with params: page=1&pageSize=30&isActive=true&customer=20021
+2018-10-31 04:41:51am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/A-AHA5 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/A-AHA5 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/A-ESS with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/A-ESS OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/A-SHA4 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/A-SHA4 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/A-SHA5 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/A-SHA5 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/B-FSA4 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/B-FSA4 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/B-FSDL with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/B-FSDL OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/B-WDL with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/B-WDL OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/C-ACCP10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/C-ACCP10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/C-ACHP10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:51am - API call for StockItem/C-ACHP10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:51am - Attempting API call StockItem/C-AJHP10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/C-AJHP10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/C-ARPH with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/C-ARPH OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/C-AWCP10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/C-AWCP10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/C-AWH100P10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/C-AWH100P10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/C-AWH150P10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/C-AWH150P10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/C-AWH300P10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/C-AWH300P10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/C-AWH600P10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/C-AWH600P10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/C-AWH900P10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/C-AWH900P10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/D-GFF75RT with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/D-GFF75RT OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/D-GFSHHD75 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/D-GFSHHD75 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/D-GHHP20 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/D-GHHP20 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/D-HSSPWEP10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/D-HSSPWEP10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/D-HT400 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/D-HT400 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:52am - Attempting API call StockItem/D-SHMHP10 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:52am - API call for StockItem/D-SHMHP10 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:53am - Attempting API call StockItem/D-STCP100 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:53am - API call for StockItem/D-STCP100 OK! Response code: 200. Response message: OK
+2018-10-31 04:41:53am - Attempting API call StockItem/F-AHCW with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:53am - API call for StockItem/F-AHCW OK! Response code: 200. Response message: OK
+2018-10-31 04:41:53am - Attempting API call StockItem/F-APSA4P with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:53am - API call for StockItem/F-APSA4P OK! Response code: 200. Response message: OK
+2018-10-31 04:41:53am - Attempting API call StockItem/F-APSA5P with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:53am - API call for StockItem/F-APSA5P OK! Response code: 200. Response message: OK
+2018-10-31 04:41:53am - Attempting API call StockItem/F-ASLC with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:53am - API call for StockItem/F-ASLC OK! Response code: 200. Response message: OK
+2018-10-31 04:41:53am - Attempting API call StockItem/F-BS300 with params: customer=20021&action=sellingPrice
+2018-10-31 04:41:53am - API call for StockItem/F-BS300 OK! Response code: 200. Response message: OK
+2018-11-21 09:58:54am - Attempting to run script cron-import-products.php
+2018-11-21 09:58:54am - Attempting API call StockItem with params: page=1&pageSize=30&isActive=true&customer=20021
+2018-11-21 09:58:59am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-21 09:58:59am - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:00am - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:00am - Attempting API call StockItem/A-AHA5 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:00am - API call for StockItem/A-AHA5 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:00am - Attempting API call StockItem/A-ESS with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:00am - API call for StockItem/A-ESS OK! Response code: 200. Response message: OK
+2018-11-21 09:59:00am - Attempting API call StockItem/A-SHA4 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:00am - API call for StockItem/A-SHA4 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:00am - Attempting API call StockItem/A-SHA5 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:01am - API call for StockItem/A-SHA5 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:01am - Attempting API call StockItem/B-FSA4 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:01am - API call for StockItem/B-FSA4 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:01am - Attempting API call StockItem/B-FSDL with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:01am - API call for StockItem/B-FSDL OK! Response code: 200. Response message: OK
+2018-11-21 09:59:01am - Attempting API call StockItem/B-WDL with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:01am - API call for StockItem/B-WDL OK! Response code: 200. Response message: OK
+2018-11-21 09:59:01am - Attempting API call StockItem/C-ACCP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:02am - API call for StockItem/C-ACCP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:02am - Attempting API call StockItem/C-ACHP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:02am - API call for StockItem/C-ACHP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:02am - Attempting API call StockItem/C-AJHP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:02am - API call for StockItem/C-AJHP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:02am - Attempting API call StockItem/C-ARPH with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:03am - API call for StockItem/C-ARPH OK! Response code: 200. Response message: OK
+2018-11-21 09:59:03am - Attempting API call StockItem/C-AWCP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:03am - API call for StockItem/C-AWCP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:03am - Attempting API call StockItem/C-AWH100P10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:03am - API call for StockItem/C-AWH100P10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:03am - Attempting API call StockItem/C-AWH150P10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:04am - API call for StockItem/C-AWH150P10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:04am - Attempting API call StockItem/C-AWH300P10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:04am - API call for StockItem/C-AWH300P10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:04am - Attempting API call StockItem/C-AWH600P10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:04am - API call for StockItem/C-AWH600P10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:04am - Attempting API call StockItem/C-AWH900P10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:04am - API call for StockItem/C-AWH900P10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:04am - Attempting API call StockItem/D-GFF75RT with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:05am - API call for StockItem/D-GFF75RT OK! Response code: 200. Response message: OK
+2018-11-21 09:59:05am - Attempting API call StockItem/D-GFSHHD75 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:05am - API call for StockItem/D-GFSHHD75 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:05am - Attempting API call StockItem/D-GHHP20 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:05am - API call for StockItem/D-GHHP20 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:05am - Attempting API call StockItem/D-HSSPWEP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:06am - API call for StockItem/D-HSSPWEP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:06am - Attempting API call StockItem/D-HT400 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:06am - API call for StockItem/D-HT400 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:06am - Attempting API call StockItem/D-SHMHP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:06am - API call for StockItem/D-SHMHP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:06am - Attempting API call StockItem/D-STCP100 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:06am - API call for StockItem/D-STCP100 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:06am - Attempting API call StockItem/F-AHCW with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:07am - API call for StockItem/F-AHCW OK! Response code: 200. Response message: OK
+2018-11-21 09:59:07am - Attempting API call StockItem/F-APSA4P with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:07am - API call for StockItem/F-APSA4P OK! Response code: 200. Response message: OK
+2018-11-21 09:59:07am - Attempting API call StockItem/F-APSA5P with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:07am - API call for StockItem/F-APSA5P OK! Response code: 200. Response message: OK
+2018-11-21 09:59:07am - Attempting API call StockItem/F-ASLC with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:08am - API call for StockItem/F-ASLC OK! Response code: 200. Response message: OK
+2018-11-21 09:59:08am - Attempting API call StockItem/F-BS300 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:08am - API call for StockItem/F-BS300 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:18am - Attempting to run script cron-import-products.php
+2018-11-21 09:59:18am - Attempting API call StockItem with params: page=2&pageSize=30&isActive=true&customer=20021
+2018-11-21 09:59:24am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-21 09:59:24am - Attempting API call StockItem/F-BSP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:24am - API call for StockItem/F-BSP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:24am - Attempting API call StockItem/F-BTS600 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:24am - API call for StockItem/F-BTS600 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:24am - Attempting API call StockItem/F-FA4PCR with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:25am - API call for StockItem/F-FA4PCR OK! Response code: 200. Response message: OK
+2018-11-21 09:59:25am - Attempting API call StockItem/F-FA5PCR with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:25am - API call for StockItem/F-FA5PCR OK! Response code: 200. Response message: OK
+2018-11-21 09:59:25am - Attempting API call StockItem/H-AICCP100 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:25am - API call for StockItem/H-AICCP100 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:25am - Attempting API call StockItem/H-FP150P10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:25am - API call for StockItem/H-FP150P10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:25am - Attempting API call StockItem/H-FP230P10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:26am - API call for StockItem/H-FP230P10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:26am - Attempting API call StockItem/H-FP75P10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:26am - API call for StockItem/H-FP75P10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:26am - Attempting API call StockItem/K-WFS with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:26am - API call for StockItem/K-WFS OK! Response code: 200. Response message: OK
+2018-11-21 09:59:26am - Attempting API call StockItem/P-SF490695INT with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:26am - API call for StockItem/P-SF490695INT OK! Response code: 200. Response message: OK
+2018-11-21 09:59:26am - Attempting API call StockItem/P-SF6001495 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:27am - API call for StockItem/P-SF6001495 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:27am - Attempting API call StockItem/P-SFA1 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:30am - API call for StockItem/P-SFA1 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:30am - Attempting API call StockItem/P-SFA2 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:31am - API call for StockItem/P-SFA2 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:31am - Attempting API call StockItem/P-SFA3 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:31am - API call for StockItem/P-SFA3 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:31am - Attempting API call StockItem/P-SFA4 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:31am - API call for StockItem/P-SFA4 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:31am - Attempting API call StockItem/P-SFA5 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:31am - API call for StockItem/P-SFA5 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:31am - Attempting API call StockItem/R-CDCHA4 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:32am - API call for StockItem/R-CDCHA4 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:32am - Attempting API call StockItem/R-SBLBE with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:32am - API call for StockItem/R-SBLBE OK! Response code: 200. Response message: OK
+2018-11-21 09:59:32am - Attempting API call StockItem/R-SBS with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:32am - API call for StockItem/R-SBS OK! Response code: 200. Response message: OK
+2018-11-21 09:59:32am - Attempting API call StockItem/R-WBBE with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:33am - API call for StockItem/R-WBBE OK! Response code: 200. Response message: OK
+2018-11-21 09:59:33am - Attempting API call StockItem/S-AT261200CRP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:33am - API call for StockItem/S-AT261200CRP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:33am - Attempting API call StockItem/S-AT26914CRP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:33am - API call for StockItem/S-AT26914CRP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:33am - Attempting API call StockItem/S-FA261200CRP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:33am - API call for StockItem/S-FA261200CRP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:33am - Attempting API call StockItem/S-FA26914CRP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:34am - API call for StockItem/S-FA26914CRP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:34am - Attempting API call StockItem/S-FS2650CRP10 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:34am - API call for StockItem/S-FS2650CRP10 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:34am - Attempting API call StockItem/S-PI26914BE with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:34am - API call for StockItem/S-PI26914BE OK! Response code: 200. Response message: OK
+2018-11-21 09:59:38am - Attempting to run script cron-import-products.php
+2018-11-21 09:59:38am - Attempting API call StockItem with params: page=3&pageSize=30&isActive=true&customer=20021
+2018-11-21 09:59:42am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-21 09:59:42am - Attempting API call StockItem/Z-SGBCES with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:42am - API call for StockItem/Z-SGBCES OK! Response code: 200. Response message: OK
+2018-11-21 09:59:42am - Attempting API call StockItem/Z-SGBRCS with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:42am - API call for StockItem/Z-SGBRCS OK! Response code: 200. Response message: OK
+2018-11-21 09:59:42am - Attempting API call StockItem/Z-SGBW with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:42am - API call for StockItem/Z-SGBW OK! Response code: 200. Response message: OK
+2018-11-21 09:59:42am - Attempting API call StockItem/Z-SGBWS with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:43am - API call for StockItem/Z-SGBWS OK! Response code: 200. Response message: OK
+2018-11-21 09:59:43am - Attempting API call StockItem/Z-SGCDT1 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:43am - API call for StockItem/Z-SGCDT1 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:43am - Attempting API call StockItem/Z-SGCDU with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:43am - API call for StockItem/Z-SGCDU OK! Response code: 200. Response message: OK
+2018-11-21 09:59:43am - Attempting API call StockItem/Z-SGPHK with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:44am - API call for StockItem/Z-SGPHK OK! Response code: 200. Response message: OK
+2018-11-21 09:59:44am - Attempting API call StockItem/Z-SGPP48X69 with params: customer=20021&action=sellingPrice
+2018-11-21 09:59:44am - API call for StockItem/Z-SGPP48X69 OK! Response code: 200. Response message: OK
+2018-11-21 09:59:47am - Attempting to run script cron-import-products.php
+2018-11-21 09:59:47am - Attempting API call StockItem with params: page=4&pageSize=30&isActive=true&customer=20021
+2018-11-21 09:59:49am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-21 10:11:25am - Attempting to run script cron-import-products.php
+2018-11-21 10:11:25am - Attempting API call StockItem with params: page=1&pageSize=30&isActive=true&customer=20021
+2018-11-21 10:11:28am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/A-AHA5 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/A-AHA5 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/A-ESS with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/A-ESS OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/A-SHA4 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/A-SHA4 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/A-SHA5 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/A-SHA5 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/B-FSA4 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/B-FSA4 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/B-FSDL with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/B-FSDL OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/B-WDL with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/B-WDL OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/C-ACCP10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/C-ACCP10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/C-ACHP10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/C-ACHP10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:28am - Attempting API call StockItem/C-AJHP10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:28am - API call for StockItem/C-AJHP10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/C-ARPH with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/C-ARPH OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/C-AWCP10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/C-AWCP10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/C-AWH100P10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/C-AWH100P10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/C-AWH150P10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/C-AWH150P10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/C-AWH300P10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/C-AWH300P10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/C-AWH600P10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/C-AWH600P10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/C-AWH900P10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/C-AWH900P10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/D-GFF75RT with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/D-GFF75RT OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/D-GFSHHD75 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/D-GFSHHD75 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/D-GHHP20 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/D-GHHP20 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/D-HSSPWEP10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/D-HSSPWEP10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/D-HT400 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/D-HT400 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/D-SHMHP10 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/D-SHMHP10 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/D-STCP100 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/D-STCP100 OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/F-AHCW with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/F-AHCW OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/F-APSA4P with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/F-APSA4P OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/F-APSA5P with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/F-APSA5P OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/F-ASLC with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/F-ASLC OK! Response code: 200. Response message: OK
+2018-11-21 10:11:29am - Attempting API call StockItem/F-BS300 with params: customer=20021&action=sellingPrice
+2018-11-21 10:11:29am - API call for StockItem/F-BS300 OK! Response code: 200. Response message: OK
+2018-11-28 02:43:59am - Attempting to run script cron-import-products.php
+2018-11-28 02:43:59am - Attempting API call StockItem with params: page=1&pageSize=30&isActive=true&customer=20021
+2018-11-28 02:44:19am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-28 02:44:19am - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:19am - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:19am - Attempting API call StockItem/A-AHA5 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:19am - API call for StockItem/A-AHA5 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:19am - Attempting API call StockItem/A-ESS with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:19am - API call for StockItem/A-ESS OK! Response code: 200. Response message: OK
+2018-11-28 02:44:19am - Attempting API call StockItem/A-SHA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:20am - API call for StockItem/A-SHA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:20am - Attempting API call StockItem/A-SHA5 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:20am - API call for StockItem/A-SHA5 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:20am - Attempting API call StockItem/B-FSA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:20am - API call for StockItem/B-FSA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:20am - Attempting API call StockItem/B-FSDL with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:20am - API call for StockItem/B-FSDL OK! Response code: 200. Response message: OK
+2018-11-28 02:44:20am - Attempting API call StockItem/B-WDL with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:21am - API call for StockItem/B-WDL OK! Response code: 200. Response message: OK
+2018-11-28 02:44:21am - Attempting API call StockItem/C-ACCP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:21am - API call for StockItem/C-ACCP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:21am - Attempting API call StockItem/C-ACHP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:21am - API call for StockItem/C-ACHP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:21am - Attempting API call StockItem/C-AJHP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:21am - API call for StockItem/C-AJHP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:21am - Attempting API call StockItem/C-ARPH with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:22am - API call for StockItem/C-ARPH OK! Response code: 200. Response message: OK
+2018-11-28 02:44:22am - Attempting API call StockItem/C-AWCP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:22am - API call for StockItem/C-AWCP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:22am - Attempting API call StockItem/C-AWH100P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:22am - API call for StockItem/C-AWH100P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:22am - Attempting API call StockItem/C-AWH150P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:23am - API call for StockItem/C-AWH150P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:23am - Attempting API call StockItem/C-AWH300P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:24am - API call for StockItem/C-AWH300P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:24am - Attempting API call StockItem/C-AWH600P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:24am - API call for StockItem/C-AWH600P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:24am - Attempting API call StockItem/C-AWH900P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:25am - API call for StockItem/C-AWH900P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:25am - Attempting API call StockItem/D-GFF75RT with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:25am - API call for StockItem/D-GFF75RT OK! Response code: 200. Response message: OK
+2018-11-28 02:44:25am - Attempting API call StockItem/D-GFSHHD75 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:29am - API call for StockItem/D-GFSHHD75 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:29am - Attempting API call StockItem/D-GHHP20 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:29am - API call for StockItem/D-GHHP20 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:29am - Attempting API call StockItem/D-HSSPWEP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:29am - API call for StockItem/D-HSSPWEP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:29am - Attempting API call StockItem/D-HT400 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:30am - API call for StockItem/D-HT400 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:30am - Attempting API call StockItem/D-SHMHP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:30am - API call for StockItem/D-SHMHP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:30am - Attempting API call StockItem/D-STCP100 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:30am - API call for StockItem/D-STCP100 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:30am - Attempting API call StockItem/F-AHCW with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:31am - API call for StockItem/F-AHCW OK! Response code: 200. Response message: OK
+2018-11-28 02:44:31am - Attempting API call StockItem/F-APSA4P with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:31am - API call for StockItem/F-APSA4P OK! Response code: 200. Response message: OK
+2018-11-28 02:44:31am - Attempting API call StockItem/F-APSA5P with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:32am - API call for StockItem/F-APSA5P OK! Response code: 200. Response message: OK
+2018-11-28 02:44:32am - Attempting API call StockItem/F-ASLC with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:32am - API call for StockItem/F-ASLC OK! Response code: 200. Response message: OK
+2018-11-28 02:44:32am - Attempting API call StockItem/F-BS300 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:32am - API call for StockItem/F-BS300 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:36am - Attempting to run script cron-import-products.php
+2018-11-28 02:44:36am - Attempting API call StockItem with params: page=2&pageSize=30&isActive=true&customer=20021
+2018-11-28 02:44:47am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-28 02:44:47am - Attempting API call StockItem/F-BSP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:47am - API call for StockItem/F-BSP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:47am - Attempting API call StockItem/F-BTS600 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:47am - API call for StockItem/F-BTS600 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:47am - Attempting API call StockItem/F-FA4PCR with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:48am - API call for StockItem/F-FA4PCR OK! Response code: 200. Response message: OK
+2018-11-28 02:44:48am - Attempting API call StockItem/F-FA5PCR with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:48am - API call for StockItem/F-FA5PCR OK! Response code: 200. Response message: OK
+2018-11-28 02:44:48am - Attempting API call StockItem/H-AICCP100 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:48am - API call for StockItem/H-AICCP100 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:48am - Attempting API call StockItem/H-FP150P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:48am - API call for StockItem/H-FP150P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:48am - Attempting API call StockItem/H-FP230P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:49am - API call for StockItem/H-FP230P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:49am - Attempting API call StockItem/H-FP75P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:49am - API call for StockItem/H-FP75P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:49am - Attempting API call StockItem/K-WFS with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:49am - API call for StockItem/K-WFS OK! Response code: 200. Response message: OK
+2018-11-28 02:44:49am - Attempting API call StockItem/P-SF490695INT with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:50am - API call for StockItem/P-SF490695INT OK! Response code: 200. Response message: OK
+2018-11-28 02:44:50am - Attempting API call StockItem/P-SF6001495 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:50am - API call for StockItem/P-SF6001495 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:50am - Attempting API call StockItem/P-SFA1 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:50am - API call for StockItem/P-SFA1 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:50am - Attempting API call StockItem/P-SFA2 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:51am - API call for StockItem/P-SFA2 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:51am - Attempting API call StockItem/P-SFA3 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:51am - API call for StockItem/P-SFA3 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:51am - Attempting API call StockItem/P-SFA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:51am - API call for StockItem/P-SFA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:51am - Attempting API call StockItem/P-SFA5 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:52am - API call for StockItem/P-SFA5 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:52am - Attempting API call StockItem/R-CDCHA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:52am - API call for StockItem/R-CDCHA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:52am - Attempting API call StockItem/R-SBLBE with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:53am - API call for StockItem/R-SBLBE OK! Response code: 200. Response message: OK
+2018-11-28 02:44:53am - Attempting API call StockItem/R-SBS with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:53am - API call for StockItem/R-SBS OK! Response code: 200. Response message: OK
+2018-11-28 02:44:53am - Attempting API call StockItem/R-WBBE with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:53am - API call for StockItem/R-WBBE OK! Response code: 200. Response message: OK
+2018-11-28 02:44:53am - Attempting API call StockItem/S-AT261200CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:54am - API call for StockItem/S-AT261200CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:54am - Attempting API call StockItem/S-AT26914CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:54am - API call for StockItem/S-AT26914CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:54am - Attempting API call StockItem/S-FA261200CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:54am - API call for StockItem/S-FA261200CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:54am - Attempting API call StockItem/S-FA26914CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:54am - API call for StockItem/S-FA26914CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:54am - Attempting API call StockItem/S-FS2650CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:55am - API call for StockItem/S-FS2650CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:44:55am - Attempting API call StockItem/S-PI26914BE with params: customer=20021&action=sellingPrice
+2018-11-28 02:44:55am - API call for StockItem/S-PI26914BE OK! Response code: 200. Response message: OK
+2018-11-28 02:44:59am - Attempting to run script cron-import-products.php
+2018-11-28 02:44:59am - Attempting API call StockItem with params: page=3&pageSize=30&isActive=true&customer=20021
+2018-11-28 02:45:03am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-28 02:45:03am - Attempting API call StockItem/Z-SGBCES with params: customer=20021&action=sellingPrice
+2018-11-28 02:45:03am - API call for StockItem/Z-SGBCES OK! Response code: 200. Response message: OK
+2018-11-28 02:45:03am - Attempting API call StockItem/Z-SGBRCS with params: customer=20021&action=sellingPrice
+2018-11-28 02:45:04am - API call for StockItem/Z-SGBRCS OK! Response code: 200. Response message: OK
+2018-11-28 02:45:04am - Attempting API call StockItem/Z-SGBW with params: customer=20021&action=sellingPrice
+2018-11-28 02:45:04am - API call for StockItem/Z-SGBW OK! Response code: 200. Response message: OK
+2018-11-28 02:45:04am - Attempting API call StockItem/Z-SGBWS with params: customer=20021&action=sellingPrice
+2018-11-28 02:45:04am - API call for StockItem/Z-SGBWS OK! Response code: 200. Response message: OK
+2018-11-28 02:45:04am - Attempting API call StockItem/Z-SGCDT1 with params: customer=20021&action=sellingPrice
+2018-11-28 02:45:05am - API call for StockItem/Z-SGCDT1 OK! Response code: 200. Response message: OK
+2018-11-28 02:45:05am - Attempting API call StockItem/Z-SGCDU with params: customer=20021&action=sellingPrice
+2018-11-28 02:45:05am - API call for StockItem/Z-SGCDU OK! Response code: 200. Response message: OK
+2018-11-28 02:45:05am - Attempting API call StockItem/Z-SGPHK with params: customer=20021&action=sellingPrice
+2018-11-28 02:45:05am - API call for StockItem/Z-SGPHK OK! Response code: 200. Response message: OK
+2018-11-28 02:45:05am - Attempting API call StockItem/Z-SGPP48X69 with params: customer=20021&action=sellingPrice
+2018-11-28 02:45:05am - API call for StockItem/Z-SGPP48X69 OK! Response code: 200. Response message: OK
+2018-11-28 02:45:08am - Attempting to run script cron-import-products.php
+2018-11-28 02:45:08am - Attempting API call StockItem with params: page=4&pageSize=30&isActive=true&customer=20021
+2018-11-28 02:45:10am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-28 02:52:36am - Attempting to run script cron-import-products.php
+2018-11-28 02:52:36am - Attempting API call StockItem with params: page=1&pageSize=30&isActive=true&customer=20021
+2018-11-28 02:52:42am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-28 02:52:42am - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:42am - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:42am - Attempting API call StockItem/A-AHA5 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:43am - API call for StockItem/A-AHA5 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:43am - Attempting API call StockItem/A-ESS with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:43am - API call for StockItem/A-ESS OK! Response code: 200. Response message: OK
+2018-11-28 02:52:43am - Attempting API call StockItem/A-SHA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:43am - API call for StockItem/A-SHA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:43am - Attempting API call StockItem/A-SHA5 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:44am - API call for StockItem/A-SHA5 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:44am - Attempting API call StockItem/B-FSA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:44am - API call for StockItem/B-FSA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:44am - Attempting API call StockItem/B-FSDL with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:44am - API call for StockItem/B-FSDL OK! Response code: 200. Response message: OK
+2018-11-28 02:52:44am - Attempting API call StockItem/B-WDL with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:47am - API call for StockItem/B-WDL OK! Response code: 200. Response message: OK
+2018-11-28 02:52:47am - Attempting API call StockItem/C-ACCP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:48am - API call for StockItem/C-ACCP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:48am - Attempting API call StockItem/C-ACHP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:48am - API call for StockItem/C-ACHP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:48am - Attempting API call StockItem/C-AJHP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:48am - API call for StockItem/C-AJHP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:48am - Attempting API call StockItem/C-ARPH with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:48am - API call for StockItem/C-ARPH OK! Response code: 200. Response message: OK
+2018-11-28 02:52:48am - Attempting API call StockItem/C-AWCP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:49am - API call for StockItem/C-AWCP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:49am - Attempting API call StockItem/C-AWH100P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:49am - API call for StockItem/C-AWH100P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:49am - Attempting API call StockItem/C-AWH150P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:49am - API call for StockItem/C-AWH150P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:49am - Attempting API call StockItem/C-AWH300P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:49am - API call for StockItem/C-AWH300P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:49am - Attempting API call StockItem/C-AWH600P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:50am - API call for StockItem/C-AWH600P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:50am - Attempting API call StockItem/C-AWH900P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:50am - API call for StockItem/C-AWH900P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:50am - Attempting API call StockItem/D-GFF75RT with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:50am - API call for StockItem/D-GFF75RT OK! Response code: 200. Response message: OK
+2018-11-28 02:52:51am - Attempting API call StockItem/D-GFSHHD75 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:51am - API call for StockItem/D-GFSHHD75 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:51am - Attempting API call StockItem/D-GHHP20 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:51am - API call for StockItem/D-GHHP20 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:51am - Attempting API call StockItem/D-HSSPWEP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:51am - API call for StockItem/D-HSSPWEP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:51am - Attempting API call StockItem/D-HT400 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:52am - API call for StockItem/D-HT400 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:52am - Attempting API call StockItem/D-SHMHP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:52am - API call for StockItem/D-SHMHP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:52am - Attempting API call StockItem/D-STCP100 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:52am - API call for StockItem/D-STCP100 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:52am - Attempting API call StockItem/F-AHCW with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:53am - API call for StockItem/F-AHCW OK! Response code: 200. Response message: OK
+2018-11-28 02:52:53am - Attempting API call StockItem/F-APSA4P with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:53am - API call for StockItem/F-APSA4P OK! Response code: 200. Response message: OK
+2018-11-28 02:52:53am - Attempting API call StockItem/F-APSA5P with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:53am - API call for StockItem/F-APSA5P OK! Response code: 200. Response message: OK
+2018-11-28 02:52:53am - Attempting API call StockItem/F-ASLC with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:54am - API call for StockItem/F-ASLC OK! Response code: 200. Response message: OK
+2018-11-28 02:52:54am - Attempting API call StockItem/F-BS300 with params: customer=20021&action=sellingPrice
+2018-11-28 02:52:54am - API call for StockItem/F-BS300 OK! Response code: 200. Response message: OK
+2018-11-28 02:52:57am - Attempting to run script cron-import-products.php
+2018-11-28 02:52:57am - Attempting API call StockItem with params: page=2&pageSize=30&isActive=true&customer=20021
+2018-11-28 02:53:08am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-28 02:53:08am - Attempting API call StockItem/F-BSP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:09am - API call for StockItem/F-BSP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:09am - Attempting API call StockItem/F-BTS600 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:09am - API call for StockItem/F-BTS600 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:09am - Attempting API call StockItem/F-FA4PCR with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:09am - API call for StockItem/F-FA4PCR OK! Response code: 200. Response message: OK
+2018-11-28 02:53:10am - Attempting API call StockItem/F-FA5PCR with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:10am - API call for StockItem/F-FA5PCR OK! Response code: 200. Response message: OK
+2018-11-28 02:53:10am - Attempting API call StockItem/H-AICCP100 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:13am - API call for StockItem/H-AICCP100 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:13am - Attempting API call StockItem/H-FP150P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:14am - API call for StockItem/H-FP150P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:14am - Attempting API call StockItem/H-FP230P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:14am - API call for StockItem/H-FP230P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:14am - Attempting API call StockItem/H-FP75P10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:14am - API call for StockItem/H-FP75P10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:14am - Attempting API call StockItem/K-WFS with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:18am - API call for StockItem/K-WFS OK! Response code: 200. Response message: OK
+2018-11-28 02:53:18am - Attempting API call StockItem/P-SF490695INT with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:18am - API call for StockItem/P-SF490695INT OK! Response code: 200. Response message: OK
+2018-11-28 02:53:18am - Attempting API call StockItem/P-SF6001495 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:19am - API call for StockItem/P-SF6001495 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:19am - Attempting API call StockItem/P-SFA1 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:19am - API call for StockItem/P-SFA1 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:19am - Attempting API call StockItem/P-SFA2 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:20am - API call for StockItem/P-SFA2 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:20am - Attempting API call StockItem/P-SFA3 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:20am - API call for StockItem/P-SFA3 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:20am - Attempting API call StockItem/P-SFA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:20am - API call for StockItem/P-SFA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:20am - Attempting API call StockItem/P-SFA5 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:21am - API call for StockItem/P-SFA5 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:21am - Attempting API call StockItem/R-CDCHA4 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:22am - API call for StockItem/R-CDCHA4 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:22am - Attempting API call StockItem/R-SBLBE with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:22am - API call for StockItem/R-SBLBE OK! Response code: 200. Response message: OK
+2018-11-28 02:53:22am - Attempting API call StockItem/R-SBS with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:22am - API call for StockItem/R-SBS OK! Response code: 200. Response message: OK
+2018-11-28 02:53:22am - Attempting API call StockItem/R-WBBE with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:23am - API call for StockItem/R-WBBE OK! Response code: 200. Response message: OK
+2018-11-28 02:53:23am - Attempting API call StockItem/S-AT261200CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:23am - API call for StockItem/S-AT261200CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:23am - Attempting API call StockItem/S-AT26914CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:23am - API call for StockItem/S-AT26914CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:23am - Attempting API call StockItem/S-FA261200CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:24am - API call for StockItem/S-FA261200CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:24am - Attempting API call StockItem/S-FA26914CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:24am - API call for StockItem/S-FA26914CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:24am - Attempting API call StockItem/S-FS2650CRP10 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:24am - API call for StockItem/S-FS2650CRP10 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:24am - Attempting API call StockItem/S-PI26914BE with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:25am - API call for StockItem/S-PI26914BE OK! Response code: 200. Response message: OK
+2018-11-28 02:53:27am - Attempting to run script cron-import-products.php
+2018-11-28 02:53:27am - Attempting API call StockItem with params: page=3&pageSize=30&isActive=true&customer=20021
+2018-11-28 02:53:30am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-28 02:53:30am - Attempting API call StockItem/Z-SGBCES with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:31am - API call for StockItem/Z-SGBCES OK! Response code: 200. Response message: OK
+2018-11-28 02:53:31am - Attempting API call StockItem/Z-SGBRCS with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:31am - API call for StockItem/Z-SGBRCS OK! Response code: 200. Response message: OK
+2018-11-28 02:53:31am - Attempting API call StockItem/Z-SGBW with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:31am - API call for StockItem/Z-SGBW OK! Response code: 200. Response message: OK
+2018-11-28 02:53:31am - Attempting API call StockItem/Z-SGBWS with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:31am - API call for StockItem/Z-SGBWS OK! Response code: 200. Response message: OK
+2018-11-28 02:53:31am - Attempting API call StockItem/Z-SGCDT1 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:31am - API call for StockItem/Z-SGCDT1 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:31am - Attempting API call StockItem/Z-SGCDU with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:31am - API call for StockItem/Z-SGCDU OK! Response code: 200. Response message: OK
+2018-11-28 02:53:31am - Attempting API call StockItem/Z-SGPHK with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:31am - API call for StockItem/Z-SGPHK OK! Response code: 200. Response message: OK
+2018-11-28 02:53:31am - Attempting API call StockItem/Z-SGPP48X69 with params: customer=20021&action=sellingPrice
+2018-11-28 02:53:32am - API call for StockItem/Z-SGPP48X69 OK! Response code: 200. Response message: OK
+2018-11-28 02:53:34am - Attempting to run script cron-import-products.php
+2018-11-28 02:53:34am - Attempting API call StockItem with params: page=4&pageSize=30&isActive=true&customer=20021
+2018-11-28 02:53:36am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-30 04:59:33am - Attempting to run script cron-import-products.php
+2018-11-30 04:59:33am - Attempting API call StockItem with params: page=1&pageSize=30&isActive=true&customer=20021
+2018-11-30 04:59:37am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-30 04:59:37am - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/A-AHA5 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/A-AHA5 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/A-ESS with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/A-ESS OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/A-SHA4 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/A-SHA4 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/A-SHA5 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/A-SHA5 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/B-FSA4 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/B-FSA4 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/B-FSDL with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/B-FSDL OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/B-WDL with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/B-WDL OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/C-ACCP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/C-ACCP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/C-ACHP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/C-ACHP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/C-AJHP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/C-AJHP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/C-ARPH with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/C-ARPH OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/C-AWCP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/C-AWCP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/C-AWH100P10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/C-AWH100P10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/C-AWH150P10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/C-AWH150P10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:38am - Attempting API call StockItem/C-AWH300P10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:38am - API call for StockItem/C-AWH300P10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/C-AWH600P10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/C-AWH600P10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/C-AWH900P10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/C-AWH900P10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/D-GFF75RT with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/D-GFF75RT OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/D-GFSHHD75 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/D-GFSHHD75 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/D-GHHP20 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/D-GHHP20 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/D-HSSPWEP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/D-HSSPWEP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/D-HT400 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/D-HT400 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/D-SHMHP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/D-SHMHP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/D-STCP100 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/D-STCP100 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/F-AHCW with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/F-AHCW OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/F-APSA4P with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/F-APSA4P OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/F-APSA5P with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/F-APSA5P OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/F-ASLC with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/F-ASLC OK! Response code: 200. Response message: OK
+2018-11-30 04:59:39am - Attempting API call StockItem/F-BS300 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:39am - API call for StockItem/F-BS300 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:41am - Attempting to run script cron-import-products.php
+2018-11-30 04:59:41am - Attempting API call StockItem with params: page=2&pageSize=30&isActive=true&customer=20021
+2018-11-30 04:59:46am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/F-BSP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/F-BSP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/F-BTS600 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/F-BTS600 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/F-FA4PCR with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/F-FA4PCR OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/F-FA5PCR with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/F-FA5PCR OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/H-AICCP100 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/H-AICCP100 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/H-FP150P10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/H-FP150P10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/H-FP230P10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/H-FP230P10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/H-FP75P10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/H-FP75P10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/K-WFS with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/K-WFS OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/P-SF490695INT with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/P-SF490695INT OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/P-SF6001495 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/P-SF6001495 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/P-SFA1 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/P-SFA1 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/P-SFA2 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/P-SFA2 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/P-SFA3 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/P-SFA3 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:46am - Attempting API call StockItem/P-SFA4 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:46am - API call for StockItem/P-SFA4 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/P-SFA5 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/P-SFA5 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/R-CDCHA4 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/R-CDCHA4 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/R-SBLBE with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/R-SBLBE OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/R-SBS with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/R-SBS OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/R-WBBE with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/R-WBBE OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/S-AT261200CRP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/S-AT261200CRP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/S-AT26914CRP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/S-AT26914CRP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/S-FA261200CRP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/S-FA261200CRP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/S-FA26914CRP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/S-FA26914CRP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/S-FS2650CRP10 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/S-FS2650CRP10 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:47am - Attempting API call StockItem/S-PI26914BE with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:47am - API call for StockItem/S-PI26914BE OK! Response code: 200. Response message: OK
+2018-11-30 04:59:49am - Attempting to run script cron-import-products.php
+2018-11-30 04:59:49am - Attempting API call StockItem with params: page=3&pageSize=30&isActive=true&customer=20021
+2018-11-30 04:59:52am - API call for StockItem OK! Response code: 200. Response message: OK
+2018-11-30 04:59:52am - Attempting API call StockItem/Z-SGBCES with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:52am - API call for StockItem/Z-SGBCES OK! Response code: 200. Response message: OK
+2018-11-30 04:59:52am - Attempting API call StockItem/Z-SGBRCS with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:52am - API call for StockItem/Z-SGBRCS OK! Response code: 200. Response message: OK
+2018-11-30 04:59:52am - Attempting API call StockItem/Z-SGBW with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:52am - API call for StockItem/Z-SGBW OK! Response code: 200. Response message: OK
+2018-11-30 04:59:52am - Attempting API call StockItem/Z-SGBWS with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:52am - API call for StockItem/Z-SGBWS OK! Response code: 200. Response message: OK
+2018-11-30 04:59:52am - Attempting API call StockItem/Z-SGCDT1 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:52am - API call for StockItem/Z-SGCDT1 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:52am - Attempting API call StockItem/Z-SGCDU with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:52am - API call for StockItem/Z-SGCDU OK! Response code: 200. Response message: OK
+2018-11-30 04:59:52am - Attempting API call StockItem/Z-SGPHK with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:52am - API call for StockItem/Z-SGPHK OK! Response code: 200. Response message: OK
+2018-11-30 04:59:52am - Attempting API call StockItem/Z-SGPP48X69 with params: customer=20021&action=sellingPrice
+2018-11-30 04:59:52am - API call for StockItem/Z-SGPP48X69 OK! Response code: 200. Response message: OK
+2018-11-30 04:59:54am - Attempting to run script cron-import-products.php
+2018-11-30 04:59:54am - Attempting API call StockItem with params: page=4&pageSize=30&isActive=true&customer=20021
+2018-11-30 04:59:55am - API call for StockItem OK! Response code: 200. Response message: OK

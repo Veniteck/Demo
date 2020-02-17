@@ -1,0 +1,775 @@
+2018-10-18 04:59:50am - Attempting to run script cron-sync-orders.php
+2018-10-18 04:59:50am - Attempting API call SOSalesOrder/121847 with params: 
+2018-10-18 04:59:51am - API call for SOSalesOrder/121847 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:51am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-18 04:59:51am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:51am - Attempting API call SOSalesOrder/120433 with params: 
+2018-10-18 04:59:51am - API call for SOSalesOrder/120433 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:51am - Attempting API call ARInvoice with params: salesorder=120433
+2018-10-18 04:59:51am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 04:59:51am - Attempting API call SOPackingSlip/120433.01 with params: 
+2018-10-18 04:59:51am - API call for SOPackingSlip/120433.01 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:53am - Attempting API call SOSalesOrder/120429 with params: 
+2018-10-18 04:59:53am - API call for SOSalesOrder/120429 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:53am - Attempting API call ARInvoice with params: salesorder=120429
+2018-10-18 04:59:53am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 04:59:53am - Attempting API call SOPackingSlip/120429.01 with params: 
+2018-10-18 04:59:53am - API call for SOPackingSlip/120429.01 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:54am - Attempting API call SOSalesOrder/120427 with params: 
+2018-10-18 04:59:54am - API call for SOSalesOrder/120427 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:54am - Attempting API call ARInvoice with params: salesorder=120427
+2018-10-18 04:59:54am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 04:59:54am - Attempting API call SOPackingSlip/120427.01 with params: 
+2018-10-18 04:59:54am - API call for SOPackingSlip/120427.01 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:55am - Attempting API call SOSalesOrder/120425 with params: 
+2018-10-18 04:59:55am - API call for SOSalesOrder/120425 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:55am - Attempting API call ARInvoice with params: salesorder=120425
+2018-10-18 04:59:55am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 04:59:55am - Attempting API call SOPackingSlip/120425.01 with params: 
+2018-10-18 04:59:55am - API call for SOPackingSlip/120425.01 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:56am - Attempting API call SOSalesOrder/120423 with params: 
+2018-10-18 04:59:56am - API call for SOSalesOrder/120423 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:57am - Attempting API call ARInvoice with params: salesorder=120423
+2018-10-18 04:59:57am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 04:59:57am - Attempting API call SOPackingSlip/120423.01 with params: 
+2018-10-18 04:59:57am - API call for SOPackingSlip/120423.01 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:58am - Attempting API call SOSalesOrder/120419 with params: 
+2018-10-18 04:59:58am - API call for SOSalesOrder/120419 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:58am - Attempting API call ARInvoice with params: salesorder=120419
+2018-10-18 04:59:58am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 04:59:58am - Attempting API call SOPackingSlip/120419.01 with params: 
+2018-10-18 04:59:58am - API call for SOPackingSlip/120419.01 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:59am - Attempting API call SOSalesOrder/120418 with params: 
+2018-10-18 04:59:59am - API call for SOSalesOrder/120418 OK! Response code: 200. Response message: OK
+2018-10-18 04:59:59am - Attempting API call ARInvoice with params: salesorder=120418
+2018-10-18 04:59:59am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 04:59:59am - Attempting API call SOPackingSlip/120418.01 with params: 
+2018-10-18 04:59:59am - API call for SOPackingSlip/120418.01 OK! Response code: 200. Response message: OK
+2018-10-18 05:00:01am - Attempting API call SOSalesOrder/120415 with params: 
+2018-10-18 05:00:01am - API call for SOSalesOrder/120415 OK! Response code: 200. Response message: OK
+2018-10-18 05:00:01am - Attempting API call ARInvoice with params: salesorder=120415
+2018-10-18 05:00:01am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 05:00:01am - Attempting API call SOPackingSlip/120415.01 with params: 
+2018-10-18 05:00:01am - API call for SOPackingSlip/120415.01 OK! Response code: 200. Response message: OK
+2018-10-18 05:00:01am - Attempting API call SOPackingSlip/120415.02 with params: 
+2018-10-18 05:00:01am - API call for SOPackingSlip/120415.02 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:54am - Attempting to run script cron-sync-orders.php
+2018-10-18 05:01:54am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-18 05:01:54am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:54am - Attempting API call SOSalesOrder/120414 with params: 
+2018-10-18 05:01:54am - API call for SOSalesOrder/120414 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:54am - Attempting API call ARInvoice with params: salesorder=120414
+2018-10-18 05:01:55am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 05:01:55am - Attempting API call SOPackingSlip/120414.01 with params: 
+2018-10-18 05:01:55am - API call for SOPackingSlip/120414.01 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:55am - Attempting API call SOPackingSlip/120414.02 with params: 
+2018-10-18 05:01:55am - API call for SOPackingSlip/120414.02 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:56am - Attempting API call SOSalesOrder/120406 with params: 
+2018-10-18 05:01:56am - API call for SOSalesOrder/120406 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:56am - Attempting API call ARInvoice with params: salesorder=120406
+2018-10-18 05:01:56am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 05:01:56am - Attempting API call SOPackingSlip/120406.01 with params: 
+2018-10-18 05:01:56am - API call for SOPackingSlip/120406.01 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:57am - Attempting API call SOSalesOrder/120405 with params: 
+2018-10-18 05:01:57am - API call for SOSalesOrder/120405 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:57am - Attempting API call ARInvoice with params: salesorder=120405
+2018-10-18 05:01:57am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 05:01:57am - Attempting API call SOPackingSlip/120405.01 with params: 
+2018-10-18 05:01:58am - API call for SOPackingSlip/120405.01 OK! Response code: 200. Response message: OK
+2018-10-26 03:58:08am - Attempting to run script cron-sync-orders.php
+2018-10-26 03:58:08am - Attempting API call SOSalesOrder/121868 with params: 
+2018-10-26 03:58:09am - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-10-26 03:58:09am - Attempting API call ARInvoice with params: salesorder=121868
+2018-10-26 03:58:09am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-26 03:58:09am - Attempting API call SOPackingSlip/121868.01 with params: 
+2018-10-26 03:58:11am - API call for SOPackingSlip/121868.01 OK! Response code: 200. Response message: OK
+2018-10-26 03:58:22am - Attempting API call SOSalesOrder/121867 with params: 
+2018-10-26 03:58:22am - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-10-26 03:58:22am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-26 03:58:22am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-26 03:58:22am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-26 03:58:22am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-26 03:58:22am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-26 03:58:22am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-26 03:58:22am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-26 03:58:22am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-26 03:58:22am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-26 03:58:22am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-26 04:14:09am - Attempting to run script cron-sync-orders.php
+2018-10-26 04:14:09am - Attempting API call SOSalesOrder/121867 with params: 
+2018-10-26 04:14:09am - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-10-26 04:14:09am - Attempting API call ARInvoice with params: salesorder=121867
+2018-10-26 04:14:09am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-26 04:14:09am - Attempting API call SOPackingSlip/121867.01 with params: 
+2018-10-26 04:14:10am - API call for SOPackingSlip/121867.01 OK! Response code: 200. Response message: OK
+2018-10-26 04:14:13am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-26 04:14:13am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-26 04:14:13am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-26 04:14:13am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-26 04:14:13am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-26 04:14:13am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-26 04:14:13am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-26 04:14:14am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-26 04:14:14am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-26 04:14:14am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-30 12:21:43am - Attempting to run script cron-sync-orders.php
+2018-10-30 12:21:43am - Attempting API call SOSalesOrder/121869 with params: 
+2018-10-30 12:21:43am - API call for SOSalesOrder/121869 OK! Response code: 200. Response message: OK
+2018-10-30 12:21:43am - Attempting API call ARInvoice with params: salesorder=121869
+2018-10-30 12:21:44am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-30 12:21:44am - Attempting API call SOPackingSlip/121869.01 with params: 
+2018-10-30 12:21:44am - API call for SOPackingSlip/121869.01 OK! Response code: 200. Response message: OK
+2018-10-30 12:21:48am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-30 12:21:48am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-30 12:21:48am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-30 12:21:48am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-30 12:21:48am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-30 12:21:48am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-30 12:21:48am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-30 12:21:48am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-30 12:21:48am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-30 12:21:48am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-30 01:06:02am - Attempting to run script cron-sync-orders.php
+2018-10-30 01:06:02am - Attempting API call SOSalesOrder/121870 with params: 
+2018-10-30 01:06:02am - API call for SOSalesOrder/121870 OK! Response code: 200. Response message: OK
+2018-10-30 01:06:02am - Attempting API call ARInvoice with params: salesorder=121870
+2018-10-30 01:06:03am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-30 01:06:03am - Attempting API call SOPackingSlip/121870.01 with params: 
+2018-10-30 01:06:03am - API call for SOPackingSlip/121870.01 OK! Response code: 200. Response message: OK
+2018-10-30 01:06:06am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-30 01:06:06am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-30 01:06:06am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-30 01:06:06am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-30 01:06:06am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-30 01:06:06am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-30 01:06:06am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-30 01:06:06am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-30 01:06:06am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-30 01:06:06am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-30 04:44:13am - Attempting to run script cron-sync-orders.php
+2018-10-30 04:44:13am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-30 04:44:13am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-30 04:44:13am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-30 04:44:13am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-30 04:44:13am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-30 04:44:13am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-30 04:44:13am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-30 04:44:13am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-30 04:44:13am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-30 04:44:14am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-30 04:44:14am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-30 04:44:14am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-30 04:46:26am - Attempting to run script cron-sync-orders.php
+2018-10-30 04:46:26am - Attempting API call SOSalesOrder/121872 with params: 
+2018-10-30 04:46:26am - API call for SOSalesOrder/121872 OK! Response code: 200. Response message: OK
+2018-10-30 04:46:28am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-30 04:46:28am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-30 04:46:28am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-30 04:46:28am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-30 04:46:28am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-30 04:46:28am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-30 04:46:28am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-30 04:46:28am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-30 04:46:28am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-30 04:46:28am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-30 04:46:28am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-30 04:46:28am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-30 04:54:54am - Attempting to run script cron-sync-orders.php
+2018-10-30 04:54:54am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-30 04:54:55am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-30 04:54:55am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-30 04:54:55am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-30 04:54:55am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-30 04:54:55am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-30 04:54:55am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-30 04:54:55am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-30 04:54:55am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-30 04:54:55am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-30 04:54:55am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-30 04:54:55am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-30 05:13:19am - Attempting to run script cron-sync-orders.php
+2018-10-30 05:13:19am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-30 05:13:19am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-30 05:13:19am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-30 05:13:19am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-30 05:13:19am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-30 05:13:19am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-30 05:13:19am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-30 05:13:19am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-30 05:13:19am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-30 05:13:19am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-30 05:13:19am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-30 05:13:19am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-31 12:09:08am - Attempting to run script cron-sync-orders.php
+2018-10-31 12:09:08am - Attempting API call SOSalesOrder/121874 with params: 
+2018-10-31 12:09:08am - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-10-31 12:09:08am - Attempting API call ARInvoice with params: salesorder=121874
+2018-10-31 12:09:08am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-31 12:09:08am - Attempting API call SOPackingSlip/ with params: 
+2018-10-31 12:09:12am - API call for SOPackingSlip/ failed! Response code: 500. Response message: Internal Server Error
+2018-10-31 12:09:12am - Error Body XML - Message: 
+2018-10-31 12:09:12am - Error Body XML - Message: 
+2018-10-31 12:09:18am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-31 12:09:19am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-31 12:09:19am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-31 12:09:19am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-31 12:09:19am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-31 12:09:19am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-31 12:09:19am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-31 12:09:19am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-31 12:09:19am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-31 12:09:19am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-31 12:09:19am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-31 12:09:19am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-31 12:15:56am - Attempting to run script cron-sync-orders.php
+2018-10-31 12:15:56am - Attempting API call SOSalesOrder/121874 with params: 
+2018-10-31 12:15:57am - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-10-31 12:15:57am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-31 12:15:57am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-31 12:15:57am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-31 12:15:57am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-31 12:15:57am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-31 12:15:57am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-31 12:15:57am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-31 12:15:57am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-31 12:15:57am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-31 12:15:57am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-31 12:15:57am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-31 12:15:57am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:17am - Attempting to run script cron-sync-orders.php
+2018-10-31 12:21:17am - Attempting API call SOSalesOrder/121874 with params: 
+2018-10-31 12:21:18am - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:18am - Attempting API call ARInvoice with params: salesorder=121874
+2018-10-31 12:21:18am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-31 12:21:18am - Attempting API call SOPackingSlip/121874.01 with params: 
+2018-10-31 12:21:19am - API call for SOPackingSlip/121874.01 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:19am - Attempting API call SOPackingSlip/121874.02 with params: 
+2018-10-31 12:21:19am - API call for SOPackingSlip/121874.02 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:19am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-31 12:21:19am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:19am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-31 12:21:19am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:19am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-31 12:21:19am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:19am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-31 12:21:19am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:19am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-31 12:21:19am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-31 12:21:19am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-31 12:21:19am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-31 12:27:19am - Attempting to run script cron-sync-orders.php
+2018-10-31 12:27:19am - Attempting API call SOSalesOrder/121875 with params: 
+2018-10-31 12:27:19am - API call for SOSalesOrder/121875 OK! Response code: 200. Response message: OK
+2018-10-31 12:27:19am - Attempting API call ARInvoice with params: salesorder=121875
+2018-10-31 12:27:19am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-31 12:27:19am - Attempting API call SOPackingSlip/121875.01 with params: 
+2018-10-31 12:27:19am - API call for SOPackingSlip/121875.01 OK! Response code: 200. Response message: OK
+2018-10-31 12:27:23am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-31 12:27:23am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-31 12:27:23am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-31 12:27:23am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-31 12:27:23am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-31 12:27:23am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-31 12:27:23am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-31 12:27:23am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-31 12:27:23am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-31 12:27:23am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-31 12:27:23am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-31 12:27:24am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:18am - Attempting to run script cron-sync-orders.php
+2018-10-31 12:30:18am - Attempting API call SOSalesOrder/121875 with params: 
+2018-10-31 12:30:18am - API call for SOSalesOrder/121875 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:18am - Attempting API call ARInvoice with params: salesorder=121875
+2018-10-31 12:30:18am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-31 12:30:18am - Attempting API call SOPackingSlip/121875.01 with params: 
+2018-10-31 12:30:18am - API call for SOPackingSlip/121875.01 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:18am - Attempting API call SOPackingSlip/121875.02 with params: 
+2018-10-31 12:30:19am - API call for SOPackingSlip/121875.02 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:19am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-31 12:30:19am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:19am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-31 12:30:19am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:19am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-31 12:30:19am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:19am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-31 12:30:19am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:19am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-31 12:30:19am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:19am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-31 12:30:19am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-31 12:35:51am - Attempting to run script cron-sync-orders.php
+2018-10-31 12:35:51am - Attempting API call SOSalesOrder/121876 with params: 
+2018-10-31 12:35:51am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-10-31 12:35:51am - Attempting API call ARInvoice with params: salesorder=121876
+2018-10-31 12:35:52am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-31 12:35:52am - Attempting API call SOPackingSlip/121876.01 with params: 
+2018-10-31 12:35:52am - API call for SOPackingSlip/121876.01 OK! Response code: 200. Response message: OK
+2018-10-31 12:35:55am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-31 12:35:55am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-31 12:35:55am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-31 12:35:55am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-31 12:35:55am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-31 12:35:55am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-31 12:35:55am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-31 12:35:55am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-31 12:35:55am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-31 12:35:55am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-31 12:35:55am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-31 12:35:55am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-10-31 01:56:38am - Attempting to run script cron-sync-orders.php
+2018-10-31 01:56:38am - Attempting API call SOSalesOrder/121876 with params: 
+2018-10-31 01:56:39am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-10-31 01:56:39am - Attempting API call SOSalesOrder/121871 with params: 
+2018-10-31 01:56:39am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-10-31 01:56:39am - Attempting API call SOSalesOrder/121865 with params: 
+2018-10-31 01:56:39am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-10-31 01:56:39am - Attempting API call SOSalesOrder/121864 with params: 
+2018-10-31 01:56:39am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-10-31 01:56:39am - Attempting API call SOSalesOrder/121863 with params: 
+2018-10-31 01:56:39am - API call for SOSalesOrder/121863 OK! Response code: 200. Response message: OK
+2018-10-31 01:56:41am - Attempting API call SOSalesOrder/121848 with params: 
+2018-10-31 01:56:41am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-10-31 01:56:41am - Attempting API call SOSalesOrder/121838 with params: 
+2018-10-31 01:56:41am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-15 10:25:48pm - Attempting to run script cron-sync-orders.php
+2018-11-15 10:25:48pm - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-15 10:25:49pm - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-15 10:25:49pm - Attempting API call ARInvoice with params: salesorder=121879
+2018-11-15 10:25:49pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-15 10:25:49pm - Attempting API call SOPackingSlip/ with params: 
+2018-11-15 10:25:49pm - API call for SOPackingSlip/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-15 10:25:49pm - Error Body XML - Message: 
+2018-11-15 10:25:49pm - Error Body XML - Message: 
+2018-11-15 10:26:20pm - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-15 10:26:20pm - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-15 10:26:20pm - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-15 10:26:20pm - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-15 10:26:20pm - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-15 10:26:20pm - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-15 10:26:20pm - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-15 10:26:21pm - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-15 10:26:21pm - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-15 10:26:21pm - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-15 10:26:21pm - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-15 10:26:21pm - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-15 10:28:17pm - Attempting to run script cron-sync-orders.php
+2018-11-15 10:28:17pm - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-15 10:28:19pm - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-15 10:28:19pm - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-15 10:28:19pm - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-15 10:28:19pm - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-15 10:28:19pm - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-15 10:28:19pm - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-15 10:28:19pm - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-15 10:28:19pm - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-15 10:28:19pm - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-15 10:28:19pm - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-15 10:28:19pm - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-15 10:28:19pm - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-15 10:28:19pm - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-15 10:32:43pm - Attempting to run script cron-sync-orders.php
+2018-11-15 10:32:43pm - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-15 10:32:43pm - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-15 10:32:43pm - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-15 10:32:43pm - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-15 10:32:43pm - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-15 10:32:43pm - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-15 10:32:43pm - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-15 10:32:43pm - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-15 10:32:43pm - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-15 10:32:44pm - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-15 10:32:44pm - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-15 10:32:44pm - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-15 10:32:44pm - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-15 10:32:44pm - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-15 10:32:44pm - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-15 10:32:44pm - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-15 10:34:31pm - Attempting to run script cron-sync-orders.php
+2018-11-15 10:34:31pm - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-15 10:34:32pm - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-15 10:34:32pm - Attempting API call ARInvoice with params: salesorder=121880
+2018-11-15 10:34:32pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-15 10:34:32pm - Attempting API call SOPackingSlip/ with params: 
+2018-11-15 10:34:32pm - API call for SOPackingSlip/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-15 10:34:32pm - Error Body XML - Message: 
+2018-11-15 10:34:32pm - Error Body XML - Message: 
+2018-11-15 10:34:36pm - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-15 10:34:36pm - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-15 10:34:36pm - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-15 10:34:36pm - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-15 10:34:36pm - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-15 10:34:36pm - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-15 10:34:36pm - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-15 10:34:36pm - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-15 10:34:36pm - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-15 10:34:36pm - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-15 10:34:36pm - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-15 10:34:36pm - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-15 10:34:36pm - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-15 10:34:36pm - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-15 11:39:44pm - Attempting to run script cron-sync-orders.php
+2018-11-15 11:39:44pm - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-15 11:39:45pm - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-15 11:39:45pm - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-15 11:39:45pm - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-15 11:39:45pm - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-15 11:39:45pm - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-15 11:39:45pm - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-15 11:39:45pm - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-15 11:39:45pm - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-15 11:39:45pm - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-15 11:39:45pm - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-15 11:39:45pm - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-15 11:39:45pm - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-15 11:39:45pm - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-15 11:39:45pm - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-15 11:39:45pm - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 12:24:13am - Attempting to run script cron-sync-orders.php
+2018-11-16 12:24:13am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 12:24:14am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 12:24:14am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 12:24:14am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 12:24:14am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 12:24:14am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 12:24:14am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 12:24:14am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 12:24:14am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 12:24:14am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 12:24:14am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 12:24:14am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 12:24:14am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 12:24:14am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 12:24:14am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 12:24:14am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 01:03:57am - Attempting to run script cron-sync-orders.php
+2018-11-16 01:03:57am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:03:57am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 01:03:57am - Attempting API call ARInvoice with params: salesorder=121881
+2018-11-16 01:03:58am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-16 01:03:58am - Attempting API call SOPackingSlip/121881.01 with params: 
+2018-11-16 01:03:58am - API call for SOPackingSlip/121881.01 OK! Response code: 200. Response message: OK
+2018-11-16 01:03:58am - Attempting API call SOPackingSlip/121881.02 with params: 
+2018-11-16 01:03:58am - API call for SOPackingSlip/121881.02 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:02am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 01:04:02am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:02am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 01:04:02am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:02am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 01:04:02am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:02am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 01:04:02am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:02am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 01:04:03am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:03am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 01:04:03am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:03am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 01:04:03am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:03am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 01:04:03am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:02am - Attempting to run script cron-sync-orders.php
+2018-11-16 01:06:02am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:03am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:03am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:03am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:03am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:03am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:03am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:03am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 01:06:03am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 01:06:03am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:44am - Attempting to run script cron-sync-orders.php
+2018-11-16 01:09:44am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:09:44am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:44am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 01:09:44am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:44am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 01:09:45am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:45am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 01:09:45am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:45am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 01:09:45am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:45am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 01:09:45am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:45am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 01:09:45am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:45am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 01:09:45am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 01:09:45am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 01:09:45am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:32am - Attempting to run script cron-sync-orders.php
+2018-11-16 01:10:32am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:10:32am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:32am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 01:10:32am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:32am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 01:10:32am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:32am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 01:10:32am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:32am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 01:10:32am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:32am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 01:10:32am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:32am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 01:10:33am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:33am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 01:10:33am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 01:10:33am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 01:10:33am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:02am - Attempting to run script cron-sync-orders.php
+2018-11-16 01:12:02am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:12:02am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:02am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 01:12:02am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:02am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 01:12:03am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:03am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 01:12:03am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:03am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 01:12:03am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:03am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 01:12:03am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:03am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 01:12:03am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:03am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 01:12:03am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:03am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 01:12:03am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:39am - Attempting to run script cron-sync-orders.php
+2018-11-16 01:23:39am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:23:39am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:39am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 01:23:39am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:39am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 01:23:39am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:39am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 01:23:40am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:40am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 01:23:40am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:40am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 01:23:40am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:40am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 01:23:40am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:40am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 01:23:40am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 01:23:40am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 01:23:40am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:35am - Attempting to run script cron-sync-orders.php
+2018-11-16 02:47:35am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:36am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:36am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:36am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:36am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:36am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:36am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:36am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 02:47:36am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 02:47:36am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:02am - Attempting to run script cron-sync-orders.php
+2018-11-16 02:49:03am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:04am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:04am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:04am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:04am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:04am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:04am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:04am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:04am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 02:49:04am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:10am - Attempting to run script cron-sync-orders.php
+2018-11-16 04:08:10am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-16 04:08:11am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:11am - Attempting API call ARInvoice with params: salesorder=121882
+2018-11-16 04:08:11am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-16 04:08:11am - Attempting API call SOPackingSlip/ with params: 
+2018-11-16 04:08:11am - API call for SOPackingSlip/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-16 04:08:11am - Error Body XML - Message: 
+2018-11-16 04:08:11am - Error Body XML - Message: 
+2018-11-16 04:08:14am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 04:08:14am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:14am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 04:08:14am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:14am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 04:08:14am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:14am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 04:08:14am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:14am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 04:08:14am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:14am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 04:08:14am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:14am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 04:08:15am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:15am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 04:08:15am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 04:08:15am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 04:08:15am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:43am - Attempting to run script cron-sync-orders.php
+2018-11-16 04:10:43am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-16 04:10:43am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:43am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 04:10:43am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:43am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 04:10:43am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:43am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 04:10:43am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:43am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 04:10:44am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:44am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 04:10:44am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:44am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 04:10:44am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:44am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 04:10:44am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:44am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 04:10:44am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 04:10:44am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 04:10:44am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting to run script cron-sync-orders.php
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 04:14:03am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 04:14:03am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:43am - Attempting to run script cron-sync-orders.php
+2018-11-16 04:15:43am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-16 04:15:43am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:43am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 04:15:43am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:43am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-16 04:15:43am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:43am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-16 04:15:43am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:43am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-16 04:15:43am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:43am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-16 04:15:44am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:44am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-16 04:15:44am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:44am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-16 04:15:44am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:44am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-16 04:15:44am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-16 04:15:44am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-16 04:15:44am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-20 11:08:56am - Attempting to run script cron-sync-orders.php
+2018-11-20 11:08:56am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-20 11:08:57am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-20 11:08:57am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-20 11:08:58am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-20 11:08:58am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-20 11:08:58am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-20 11:08:58am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-20 11:08:59am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-20 11:08:59am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-20 11:08:59am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-20 11:08:59am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-20 11:09:00am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:00am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-20 11:09:00am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:00am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-20 11:09:00am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:00am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-20 11:09:01am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:01am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-20 11:09:01am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:53am - Attempting to run script cron-sync-orders.php
+2018-11-20 11:09:53am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-20 11:09:55am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:55am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-20 11:09:56am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:56am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-20 11:09:57am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:57am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-20 11:09:57am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:57am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-20 11:09:57am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:57am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-20 11:09:58am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:58am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-20 11:09:58am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:58am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-20 11:09:59am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:59am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-20 11:09:59am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-20 11:09:59am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-20 11:10:00am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:41am - Attempting to run script cron-sync-orders.php
+2018-11-20 11:10:41am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-20 11:10:42am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:42am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-20 11:10:43am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:43am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-20 11:10:43am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:43am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-20 11:10:43am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:43am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-20 11:10:44am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:44am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-20 11:10:44am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:44am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-20 11:10:47am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:47am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-20 11:10:48am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:48am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-20 11:10:48am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-20 11:10:48am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-20 11:10:49am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:06am - Attempting to run script cron-sync-orders.php
+2018-11-20 11:12:06am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-20 11:12:06am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:06am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-20 11:12:06am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:06am - Attempting API call SOSalesOrder/121880 with params: 
+2018-11-20 11:12:07am - API call for SOSalesOrder/121880 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:07am - Attempting API call SOSalesOrder/121879 with params: 
+2018-11-20 11:12:07am - API call for SOSalesOrder/121879 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:07am - Attempting API call SOSalesOrder/121876 with params: 
+2018-11-20 11:12:07am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:07am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-20 11:12:08am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:08am - Attempting API call SOSalesOrder/121865 with params: 
+2018-11-20 11:12:08am - API call for SOSalesOrder/121865 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:08am - Attempting API call SOSalesOrder/121864 with params: 
+2018-11-20 11:12:09am - API call for SOSalesOrder/121864 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:09am - Attempting API call SOSalesOrder/121848 with params: 
+2018-11-20 11:12:09am - API call for SOSalesOrder/121848 OK! Response code: 200. Response message: OK
+2018-11-20 11:12:09am - Attempting API call SOSalesOrder/121838 with params: 
+2018-11-20 11:12:09am - API call for SOSalesOrder/121838 OK! Response code: 200. Response message: OK

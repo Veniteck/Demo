@@ -1,0 +1,72 @@
+2018-09-27 08:47:07am - Attempting to run script cron-import-customers.php
+2018-09-27 08:47:07am - Attempting API call Customer with params: page=1&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 08:47:11am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 08:47:37am - Attempting to run script cron-import-customers.php
+2018-09-27 08:47:37am - Attempting API call Customer with params: page=1&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 08:47:41am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:17:14am - Attempting to run script cron-import-customers.php
+2018-09-27 09:17:14am - Attempting API call Customer with params: page=2&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:17:16am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:17:18am - Attempting to run script cron-import-customers.php
+2018-09-27 09:17:18am - Attempting API call Customer with params: page=1&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:17:23am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:17:27am - Attempting to run script cron-import-customers.php
+2018-09-27 09:17:27am - Attempting API call Customer with params: page=2&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:17:30am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:17:33am - Attempting to run script cron-import-customers.php
+2018-09-27 09:17:33am - Attempting API call Customer with params: page=3&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:17:37am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:17:41am - Attempting to run script cron-import-customers.php
+2018-09-27 09:17:41am - Attempting API call Customer with params: page=4&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:17:44am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:17:49am - Attempting to run script cron-import-customers.php
+2018-09-27 09:17:49am - Attempting API call Customer with params: page=5&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:17:51am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:17:56am - Attempting to run script cron-import-customers.php
+2018-09-27 09:17:56am - Attempting API call Customer with params: page=6&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:18:00am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:18:04am - Attempting to run script cron-import-customers.php
+2018-09-27 09:18:04am - Attempting API call Customer with params: page=7&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:18:08am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:18:12am - Attempting to run script cron-import-customers.php
+2018-09-27 09:18:12am - Attempting API call Customer with params: page=8&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:18:15am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:18:20am - Attempting to run script cron-import-customers.php
+2018-09-27 09:18:20am - Attempting API call Customer with params: page=9&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:18:22am - API call for Customer OK! Response code: 200. Response message: OK
+2018-09-27 09:18:27am - Attempting to run script cron-import-customers.php
+2018-09-27 09:18:27am - Attempting API call Customer with params: page=10&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-09-27 09:18:28am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:31:53am - Attempting to run script cron-import-customers.php
+2018-11-13 02:31:53am - Attempting API call Customer with params: page=1&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:32:13am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:32:17am - Attempting to run script cron-import-customers.php
+2018-11-13 02:32:17am - Attempting API call Customer with params: page=2&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:32:19am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:32:24am - Attempting to run script cron-import-customers.php
+2018-11-13 02:32:24am - Attempting API call Customer with params: page=3&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:32:26am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:32:30am - Attempting to run script cron-import-customers.php
+2018-11-13 02:32:30am - Attempting API call Customer with params: page=4&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:32:32am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:32:36am - Attempting to run script cron-import-customers.php
+2018-11-13 02:32:36am - Attempting API call Customer with params: page=5&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:32:38am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:32:43am - Attempting to run script cron-import-customers.php
+2018-11-13 02:32:43am - Attempting API call Customer with params: page=6&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:32:44am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:32:49am - Attempting to run script cron-import-customers.php
+2018-11-13 02:32:49am - Attempting API call Customer with params: page=7&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:32:50am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:32:55am - Attempting to run script cron-import-customers.php
+2018-11-13 02:32:55am - Attempting API call Customer with params: page=8&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:32:56am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:33:00am - Attempting to run script cron-import-customers.php
+2018-11-13 02:33:00am - Attempting API call Customer with params: page=9&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:33:02am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:33:06am - Attempting to run script cron-import-customers.php
+2018-11-13 02:33:06am - Attempting API call Customer with params: page=10&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:33:07am - API call for Customer OK! Response code: 200. Response message: OK
+2018-11-13 02:43:39am - Attempting to run script cron-import-customers.php
+2018-11-13 02:43:39am - Attempting API call Customer with params: page=1&pageSize=30&parentCustomer=20021&includeAttachments=true
+2018-11-13 02:43:40am - API call for Customer OK! Response code: 200. Response message: OK

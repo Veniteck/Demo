@@ -1,0 +1,20 @@
+2018-10-29 09:51:43pm - Attempting to run script script-import-single-product.php
+2018-10-29 09:51:43pm - Attempting API call StockItem/a-aha4 with params: page=1&pageSize=1
+2018-10-29 09:51:53pm - API call for StockItem/a-aha4 OK! Response code: 200. Response message: OK
+2018-10-29 09:51:53pm - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-10-29 09:51:54pm - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-10-29 10:00:13pm - Attempting to run script script-import-single-product.php
+2018-10-29 10:00:13pm - Attempting API call StockItem/a-aha4 with params: page=1&pageSize=1
+2018-10-29 10:00:15pm - API call for StockItem/a-aha4 OK! Response code: 200. Response message: OK
+2018-10-29 10:00:15pm - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-10-29 10:00:15pm - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-10-29 10:49:09pm - Attempting to run script script-import-single-product.php
+2018-10-29 10:49:09pm - Attempting API call StockItem/a-aha4 with params: page=1&pageSize=1
+2018-10-29 10:49:10pm - API call for StockItem/a-aha4 OK! Response code: 200. Response message: OK
+2018-10-29 10:49:10pm - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-10-29 10:49:10pm - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK
+2018-10-29 10:49:34pm - Attempting to run script script-import-single-product.php
+2018-10-29 10:49:34pm - Attempting API call StockItem/a-aha4 with params: page=1&pageSize=1
+2018-10-29 10:49:35pm - API call for StockItem/a-aha4 OK! Response code: 200. Response message: OK
+2018-10-29 10:49:35pm - Attempting API call StockItem/A-AHA4 with params: customer=20021&action=sellingPrice
+2018-10-29 10:49:35pm - API call for StockItem/A-AHA4 OK! Response code: 200. Response message: OK

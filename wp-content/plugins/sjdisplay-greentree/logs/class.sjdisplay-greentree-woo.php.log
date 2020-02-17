@@ -1,0 +1,443 @@
+2018-10-05 03:01:27am - Attempting API call SOSalesOrder/120406 with params: 
+2018-10-05 03:01:28am - API call for SOSalesOrder/120406 OK! Response code: 200. Response message: OK
+2018-10-07 11:49:01pm - Attempting API call SOSalesOrder/ with params: 
+2018-10-07 11:49:03pm - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-10-07 11:49:03pm - Error Body XML - Message: 
+2018-10-08 04:25:33am - Attempting API call SOSalesOrder/120414 with params: 
+2018-10-08 04:25:34am - API call for SOSalesOrder/120414 OK! Response code: 200. Response message: OK
+2018-10-18 05:00:44am - Attempting API call SOSalesOrder/120418 with params: 
+2018-10-18 05:00:44am - API call for SOSalesOrder/120418 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:13am - Attempting API call SOSalesOrder/121847 with params: 
+2018-10-18 05:01:13am - API call for SOSalesOrder/121847 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:30am - Attempting API call SOSalesOrder/121847 with params: 
+2018-10-18 05:01:30am - API call for SOSalesOrder/121847 OK! Response code: 200. Response message: OK
+2018-10-18 05:01:30am - Attempting API call ARInvoice with params: salesorder=121847
+2018-10-18 05:01:30am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-10-18 05:01:30am - Attempting API call SOPackingSlip/121847.01 with params: 
+2018-10-18 05:01:30am - API call for SOPackingSlip/121847.01 OK! Response code: 200. Response message: OK
+2018-10-18 05:02:03am - Attempting API call SOSalesOrder/121847 with params: 
+2018-10-18 05:02:04am - API call for SOSalesOrder/121847 OK! Response code: 200. Response message: OK
+2018-10-18 05:12:55am - Attempting API call SOSalesOrder/121847 with params: 
+2018-10-18 05:12:56am - API call for SOSalesOrder/121847 OK! Response code: 200. Response message: OK
+2018-10-18 10:13:34pm - Attempting API call SOSalesOrder/ with params: 
+2018-10-18 10:13:35pm - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-10-18 10:13:35pm - Error Body XML - Message: 
+2018-10-18 10:13:35pm - Error Body XML - Message: 
+2018-10-23 12:12:08am - Attempting API call SOSalesOrder/121852 with params: 
+2018-10-23 12:12:13am - API call for SOSalesOrder/121852 OK! Response code: 200. Response message: OK
+2018-10-23 12:12:47am - Attempting API call SOSalesOrder/121852 with params: 
+2018-10-23 12:12:48am - API call for SOSalesOrder/121852 OK! Response code: 200. Response message: OK
+2018-10-23 12:13:33am - Attempting API call SOSalesOrder/121852 with params: 
+2018-10-23 12:13:34am - API call for SOSalesOrder/121852 OK! Response code: 200. Response message: OK
+2018-10-23 12:13:46am - Attempting API call SOSalesOrder/121852 with params: 
+2018-10-23 12:13:48am - API call for SOSalesOrder/121852 OK! Response code: 200. Response message: OK
+2018-10-23 12:13:57am - Attempting API call SOSalesOrder/121852 with params: 
+2018-10-23 12:13:57am - API call for SOSalesOrder/121852 OK! Response code: 200. Response message: OK
+2018-10-23 12:14:06am - Attempting API call SOSalesOrder/121852 with params: 
+2018-10-23 12:14:06am - API call for SOSalesOrder/121852 OK! Response code: 200. Response message: OK
+2018-10-23 12:16:16am - Attempting API call SOSalesOrder/121861 with params: 
+2018-10-23 12:16:17am - API call for SOSalesOrder/121861 OK! Response code: 200. Response message: OK
+2018-10-23 12:16:19am - Attempting API call SOSalesOrder/121861 with params: 
+2018-10-23 12:16:20am - API call for SOSalesOrder/121861 OK! Response code: 200. Response message: OK
+2018-10-26 04:00:44am - Attempting API call SOSalesOrder/121868 with params: 
+2018-10-26 04:00:44am - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-10-26 04:45:19am - Attempting API call SOSalesOrder/121868 with params: 
+2018-10-26 04:45:20am - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-10-26 04:45:21am - Attempting API call SOSalesOrder/121868 with params: 
+2018-10-26 04:45:22am - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-10-26 04:45:29am - Attempting API call SOSalesOrder/121868 with params: 
+2018-10-26 04:45:29am - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-10-26 04:45:34am - Attempting API call SOSalesOrder/121868 with params: 
+2018-10-26 04:45:35am - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-10-26 04:45:41am - Attempting API call SOSalesOrder/121868 with params: 
+2018-10-26 04:45:41am - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-10-26 04:45:44am - Attempting API call SOSalesOrder/121868 with params: 
+2018-10-26 04:45:44am - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-10-26 04:45:58am - Attempting API call SOSalesOrder/121867 with params: 
+2018-10-26 04:45:58am - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-10-26 04:46:00am - Attempting API call SOSalesOrder/121867 with params: 
+2018-10-26 04:46:00am - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-10-26 04:46:14am - Attempting API call SOSalesOrder/121867 with params: 
+2018-10-26 04:46:14am - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-10-26 04:55:29am - Attempting API call SOSalesOrder/121867 with params: 
+2018-10-26 04:55:30am - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-10-29 12:12:59am - Attempting API call SOSalesOrder/120405 with params: 
+2018-10-29 12:13:00am - Attempting API call SOSalesOrder/120405 with params: 
+2018-10-29 12:13:06am - API call for SOSalesOrder/120405 OK! Response code: 200. Response message: OK
+2018-10-29 12:13:06am - API call for SOSalesOrder/120405 OK! Response code: 200. Response message: OK
+2018-10-30 12:16:14am - Attempting API call SOSalesOrder/121867 with params: 
+2018-10-30 12:16:15am - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-10-30 12:16:28am - Attempting API call SOSalesOrder/121867 with params: 
+2018-10-30 12:16:28am - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-10-31 12:10:53am - Attempting API call SOSalesOrder/121874 with params: 
+2018-10-31 12:10:53am - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-10-31 12:18:47am - Attempting API call SOSalesOrder/121874 with params: 
+2018-10-31 12:18:48am - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-10-31 12:22:02am - Attempting API call SOSalesOrder/121874 with params: 
+2018-10-31 12:22:02am - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-10-31 12:24:34am - Attempting API call SOSalesOrder/121874 with params: 
+2018-10-31 12:24:35am - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-10-31 12:28:21am - Attempting API call SOSalesOrder/121875 with params: 
+2018-10-31 12:28:21am - API call for SOSalesOrder/121875 OK! Response code: 200. Response message: OK
+2018-10-31 12:28:33am - Attempting API call SOSalesOrder/121874 with params: 
+2018-10-31 12:28:33am - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-10-31 12:29:00am - Attempting API call SOSalesOrder/121875 with params: 
+2018-10-31 12:29:00am - API call for SOSalesOrder/121875 OK! Response code: 200. Response message: OK
+2018-10-31 12:30:42am - Attempting API call SOSalesOrder/121875 with params: 
+2018-10-31 12:30:43am - API call for SOSalesOrder/121875 OK! Response code: 200. Response message: OK
+2018-10-31 12:33:46am - Attempting API call SOSalesOrder/121876 with params: 
+2018-10-31 12:33:46am - API call for SOSalesOrder/121876 OK! Response code: 200. Response message: OK
+2018-11-16 01:04:30am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:04:31am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 01:12:29am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:12:29am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 01:24:00am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 01:24:00am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 02:49:26am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-16 02:49:27am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-16 04:11:10am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-16 04:11:11am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-18 08:48:19pm - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-18 08:48:25pm - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-22 05:04:46am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-22 05:04:47am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-22 05:04:47am - Attempting API call ARInvoice with params: salesorder=121882
+2018-11-22 05:04:47am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 05:04:47am - Attempting API call SOPackingSlip/121882.01 with params: 
+2018-11-22 05:04:47am - API call for SOPackingSlip/121882.01 OK! Response code: 200. Response message: OK
+2018-11-22 05:04:47am - Attempting API call SOPackingSlip/121882.02 with params: 
+2018-11-22 05:04:47am - API call for SOPackingSlip/121882.02 OK! Response code: 200. Response message: OK
+2018-11-22 05:04:47am - Attempting API call SOPackingSlip/121882.03 with params: 
+2018-11-22 05:04:47am - API call for SOPackingSlip/121882.03 OK! Response code: 200. Response message: OK
+2018-11-22 11:39:46pm - Attempting API call SOSalesOrder/121875 with params: 
+2018-11-22 11:39:46pm - API call for SOSalesOrder/121875 OK! Response code: 200. Response message: OK
+2018-11-22 11:39:46pm - Attempting API call ARInvoice with params: salesorder=121875
+2018-11-22 11:39:46pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:39:46pm - Attempting API call SOPackingSlip/121875.01 with params: 
+2018-11-22 11:39:46pm - API call for SOPackingSlip/121875.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:39:46pm - Attempting API call SOPackingSlip/121875.02 with params: 
+2018-11-22 11:39:46pm - API call for SOPackingSlip/121875.02 OK! Response code: 200. Response message: OK
+2018-11-22 11:40:23pm - Attempting API call SOSalesOrder/121875 with params: 
+2018-11-22 11:40:23pm - API call for SOSalesOrder/121875 OK! Response code: 200. Response message: OK
+2018-11-22 11:40:23pm - Attempting API call ARInvoice with params: salesorder=121875
+2018-11-22 11:40:24pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:40:24pm - Attempting API call SOPackingSlip/121875.01 with params: 
+2018-11-22 11:40:24pm - API call for SOPackingSlip/121875.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:40:24pm - Attempting API call SOPackingSlip/121875.02 with params: 
+2018-11-22 11:40:24pm - API call for SOPackingSlip/121875.02 OK! Response code: 200. Response message: OK
+2018-11-22 11:40:34pm - Attempting API call SOSalesOrder/121869 with params: 
+2018-11-22 11:40:34pm - API call for SOSalesOrder/121869 OK! Response code: 200. Response message: OK
+2018-11-22 11:40:34pm - Attempting API call ARInvoice with params: salesorder=121869
+2018-11-22 11:40:34pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:40:34pm - Attempting API call SOPackingSlip/121869.01 with params: 
+2018-11-22 11:40:34pm - API call for SOPackingSlip/121869.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:40:47pm - Attempting API call SOSalesOrder/121868 with params: 
+2018-11-22 11:40:48pm - API call for SOSalesOrder/121868 OK! Response code: 200. Response message: OK
+2018-11-22 11:40:48pm - Attempting API call ARInvoice with params: salesorder=121868
+2018-11-22 11:40:48pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:40:48pm - Attempting API call SOPackingSlip/121868.01 with params: 
+2018-11-22 11:40:48pm - API call for SOPackingSlip/121868.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:41:45pm - Attempting API call SOSalesOrder/121874 with params: 
+2018-11-22 11:41:45pm - API call for SOSalesOrder/121874 OK! Response code: 200. Response message: OK
+2018-11-22 11:41:45pm - Attempting API call ARInvoice with params: salesorder=121874
+2018-11-22 11:41:46pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:41:46pm - Attempting API call SOPackingSlip/121874.01 with params: 
+2018-11-22 11:41:47pm - API call for SOPackingSlip/121874.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:41:47pm - Attempting API call SOPackingSlip/121874.02 with params: 
+2018-11-22 11:41:47pm - API call for SOPackingSlip/121874.02 OK! Response code: 200. Response message: OK
+2018-11-22 11:41:54pm - Attempting API call SOSalesOrder/121867 with params: 
+2018-11-22 11:41:55pm - API call for SOSalesOrder/121867 OK! Response code: 200. Response message: OK
+2018-11-22 11:41:55pm - Attempting API call ARInvoice with params: salesorder=121867
+2018-11-22 11:41:55pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:41:55pm - Attempting API call SOPackingSlip/121867.01 with params: 
+2018-11-22 11:41:55pm - API call for SOPackingSlip/121867.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:23pm - Attempting API call SOSalesOrder/121870 with params: 
+2018-11-22 11:42:24pm - API call for SOSalesOrder/121870 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:24pm - Attempting API call ARInvoice with params: salesorder=121870
+2018-11-22 11:42:24pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:42:24pm - Attempting API call SOPackingSlip/121870.01 with params: 
+2018-11-22 11:42:24pm - API call for SOPackingSlip/121870.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:43pm - Attempting API call SOSalesOrder/121870 with params: 
+2018-11-22 11:42:43pm - API call for SOSalesOrder/121870 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:43pm - Attempting API call ARInvoice with params: salesorder=121870
+2018-11-22 11:42:44pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:42:44pm - Attempting API call SOPackingSlip/121870.01 with params: 
+2018-11-22 11:42:44pm - API call for SOPackingSlip/121870.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:58pm - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-22 11:42:58pm - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:58pm - Attempting API call ARInvoice with params: salesorder=121881
+2018-11-22 11:42:59pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:42:59pm - Attempting API call SOPackingSlip/121881.01 with params: 
+2018-11-22 11:42:59pm - API call for SOPackingSlip/121881.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:59pm - Attempting API call SOPackingSlip/121881.02 with params: 
+2018-11-22 11:42:59pm - API call for SOPackingSlip/121881.02 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:59pm - Attempting API call SOPackingSlip/121881.03 with params: 
+2018-11-22 11:42:59pm - API call for SOPackingSlip/121881.03 OK! Response code: 200. Response message: OK
+2018-11-22 11:42:59pm - Attempting API call SOPackingSlip/121881.04 with params: 
+2018-11-22 11:42:59pm - API call for SOPackingSlip/121881.04 OK! Response code: 200. Response message: OK
+2018-11-22 11:45:45pm - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-22 11:45:45pm - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-22 11:45:45pm - Attempting API call ARInvoice with params: salesorder=121881
+2018-11-22 11:45:45pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:45:45pm - Attempting API call SOPackingSlip/121881.01 with params: 
+2018-11-22 11:45:45pm - API call for SOPackingSlip/121881.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:45:45pm - Attempting API call SOPackingSlip/121881.02 with params: 
+2018-11-22 11:45:46pm - API call for SOPackingSlip/121881.02 OK! Response code: 200. Response message: OK
+2018-11-22 11:45:46pm - Attempting API call SOPackingSlip/121881.03 with params: 
+2018-11-22 11:45:46pm - API call for SOPackingSlip/121881.03 OK! Response code: 200. Response message: OK
+2018-11-22 11:45:46pm - Attempting API call SOPackingSlip/121881.04 with params: 
+2018-11-22 11:45:46pm - API call for SOPackingSlip/121881.04 OK! Response code: 200. Response message: OK
+2018-11-22 11:49:24pm - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-22 11:49:25pm - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-22 11:49:25pm - Attempting API call ARInvoice with params: salesorder=121882
+2018-11-22 11:49:25pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:49:25pm - Attempting API call SOPackingSlip/121882.01 with params: 
+2018-11-22 11:49:25pm - API call for SOPackingSlip/121882.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:49:25pm - Attempting API call SOPackingSlip/121882.02 with params: 
+2018-11-22 11:49:25pm - API call for SOPackingSlip/121882.02 OK! Response code: 200. Response message: OK
+2018-11-22 11:49:25pm - Attempting API call SOPackingSlip/121882.03 with params: 
+2018-11-22 11:49:25pm - API call for SOPackingSlip/121882.03 OK! Response code: 200. Response message: OK
+2018-11-22 11:52:33pm - Attempting API call SOSalesOrder/121901 with params: 
+2018-11-22 11:52:34pm - API call for SOSalesOrder/121901 OK! Response code: 200. Response message: OK
+2018-11-22 11:53:01pm - Attempting API call SOSalesOrder/121901 with params: 
+2018-11-22 11:53:01pm - API call for SOSalesOrder/121901 OK! Response code: 200. Response message: OK
+2018-11-22 11:53:01pm - Attempting API call ARInvoice with params: salesorder=121901
+2018-11-22 11:53:01pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:53:01pm - Attempting API call SOPackingSlip/121901.01 with params: 
+2018-11-22 11:53:01pm - API call for SOPackingSlip/121901.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:53:14pm - Attempting API call SOSalesOrder/121901 with params: 
+2018-11-22 11:53:15pm - API call for SOSalesOrder/121901 OK! Response code: 200. Response message: OK
+2018-11-22 11:53:15pm - Attempting API call ARInvoice with params: salesorder=121901
+2018-11-22 11:53:15pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:53:15pm - Attempting API call SOPackingSlip/121901.01 with params: 
+2018-11-22 11:53:15pm - API call for SOPackingSlip/121901.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:54:11pm - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-22 11:54:12pm - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-22 11:54:12pm - Attempting API call ARInvoice with params: salesorder=121882
+2018-11-22 11:54:12pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:54:12pm - Attempting API call SOPackingSlip/121882.01 with params: 
+2018-11-22 11:54:12pm - API call for SOPackingSlip/121882.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:54:12pm - Attempting API call SOPackingSlip/121882.02 with params: 
+2018-11-22 11:54:12pm - API call for SOPackingSlip/121882.02 OK! Response code: 200. Response message: OK
+2018-11-22 11:54:12pm - Attempting API call SOPackingSlip/121882.03 with params: 
+2018-11-22 11:54:12pm - API call for SOPackingSlip/121882.03 OK! Response code: 200. Response message: OK
+2018-11-22 11:54:27pm - Attempting API call SOSalesOrder/121901 with params: 
+2018-11-22 11:54:27pm - API call for SOSalesOrder/121901 OK! Response code: 200. Response message: OK
+2018-11-22 11:54:27pm - Attempting API call ARInvoice with params: salesorder=121901
+2018-11-22 11:54:27pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:54:27pm - Attempting API call SOPackingSlip/121901.01 with params: 
+2018-11-22 11:54:27pm - API call for SOPackingSlip/121901.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:55:34pm - Attempting API call SOSalesOrder/121901 with params: 
+2018-11-22 11:55:34pm - API call for SOSalesOrder/121901 OK! Response code: 200. Response message: OK
+2018-11-22 11:55:34pm - Attempting API call ARInvoice with params: salesorder=121901
+2018-11-22 11:55:34pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:55:34pm - Attempting API call SOPackingSlip/121901.01 with params: 
+2018-11-22 11:55:34pm - API call for SOPackingSlip/121901.01 OK! Response code: 200. Response message: OK
+2018-11-22 11:55:36pm - Attempting API call SOSalesOrder/121901 with params: 
+2018-11-22 11:55:36pm - API call for SOSalesOrder/121901 OK! Response code: 200. Response message: OK
+2018-11-22 11:55:36pm - Attempting API call ARInvoice with params: salesorder=121901
+2018-11-22 11:55:36pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-22 11:55:36pm - Attempting API call SOPackingSlip/121901.01 with params: 
+2018-11-22 11:55:36pm - API call for SOPackingSlip/121901.01 OK! Response code: 200. Response message: OK
+2018-11-23 12:00:49am - Attempting API call SOSalesOrder/121902 with params: 
+2018-11-23 12:00:50am - API call for SOSalesOrder/121902 OK! Response code: 200. Response message: OK
+2018-11-23 12:01:20am - Attempting API call SOSalesOrder/121902 with params: 
+2018-11-23 12:01:21am - API call for SOSalesOrder/121902 OK! Response code: 200. Response message: OK
+2018-11-23 12:01:21am - Attempting API call ARInvoice with params: salesorder=121902
+2018-11-23 12:01:21am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 12:01:21am - Attempting API call SOPackingSlip/121902.01 with params: 
+2018-11-23 12:01:21am - API call for SOPackingSlip/121902.01 OK! Response code: 200. Response message: OK
+2018-11-23 12:02:34am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-23 12:02:34am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-23 12:02:35am - Attempting API call ARInvoice with params: salesorder=121881
+2018-11-23 12:02:35am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 12:02:35am - Attempting API call SOPackingSlip/121881.01 with params: 
+2018-11-23 12:02:35am - API call for SOPackingSlip/121881.01 OK! Response code: 200. Response message: OK
+2018-11-23 12:02:35am - Attempting API call SOPackingSlip/121881.02 with params: 
+2018-11-23 12:02:35am - API call for SOPackingSlip/121881.02 OK! Response code: 200. Response message: OK
+2018-11-23 12:02:35am - Attempting API call SOPackingSlip/121881.03 with params: 
+2018-11-23 12:02:35am - API call for SOPackingSlip/121881.03 OK! Response code: 200. Response message: OK
+2018-11-23 12:02:35am - Attempting API call SOPackingSlip/121881.04 with params: 
+2018-11-23 12:02:35am - API call for SOPackingSlip/121881.04 OK! Response code: 200. Response message: OK
+2018-11-23 12:06:30am - Attempting API call SOSalesOrder/121903 with params: 
+2018-11-23 12:06:31am - API call for SOSalesOrder/121903 OK! Response code: 200. Response message: OK
+2018-11-23 12:07:15am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-23 12:07:15am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-23 12:07:16am - Attempting API call ARInvoice with params: salesorder=121881
+2018-11-23 12:07:16am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 12:07:16am - Attempting API call SOPackingSlip/121881.01 with params: 
+2018-11-23 12:07:16am - API call for SOPackingSlip/121881.01 OK! Response code: 200. Response message: OK
+2018-11-23 12:07:16am - Attempting API call SOPackingSlip/121881.02 with params: 
+2018-11-23 12:07:16am - API call for SOPackingSlip/121881.02 OK! Response code: 200. Response message: OK
+2018-11-23 12:07:16am - Attempting API call SOPackingSlip/121881.03 with params: 
+2018-11-23 12:07:16am - API call for SOPackingSlip/121881.03 OK! Response code: 200. Response message: OK
+2018-11-23 12:07:16am - Attempting API call SOPackingSlip/121881.04 with params: 
+2018-11-23 12:07:16am - API call for SOPackingSlip/121881.04 OK! Response code: 200. Response message: OK
+2018-11-23 12:07:36am - Attempting API call SOSalesOrder/121903 with params: 
+2018-11-23 12:07:36am - API call for SOSalesOrder/121903 OK! Response code: 200. Response message: OK
+2018-11-23 12:08:00am - Attempting API call SOSalesOrder/121903 with params: 
+2018-11-23 12:08:00am - API call for SOSalesOrder/121903 OK! Response code: 200. Response message: OK
+2018-11-23 12:08:50am - Attempting API call SOSalesOrder/121881 with params: 
+2018-11-23 12:08:50am - API call for SOSalesOrder/121881 OK! Response code: 200. Response message: OK
+2018-11-23 12:08:50am - Attempting API call ARInvoice with params: salesorder=121881
+2018-11-23 12:08:50am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 12:08:50am - Attempting API call SOPackingSlip/121881.01 with params: 
+2018-11-23 12:08:50am - API call for SOPackingSlip/121881.01 OK! Response code: 200. Response message: OK
+2018-11-23 12:08:50am - Attempting API call SOPackingSlip/121881.02 with params: 
+2018-11-23 12:08:50am - API call for SOPackingSlip/121881.02 OK! Response code: 200. Response message: OK
+2018-11-23 12:08:50am - Attempting API call SOPackingSlip/121881.03 with params: 
+2018-11-23 12:08:51am - API call for SOPackingSlip/121881.03 OK! Response code: 200. Response message: OK
+2018-11-23 12:08:51am - Attempting API call SOPackingSlip/121881.04 with params: 
+2018-11-23 12:08:51am - API call for SOPackingSlip/121881.04 OK! Response code: 200. Response message: OK
+2018-11-23 12:09:07am - Attempting API call SOSalesOrder/121903 with params: 
+2018-11-23 12:09:07am - API call for SOSalesOrder/121903 OK! Response code: 200. Response message: OK
+2018-11-23 12:09:07am - Attempting API call ARInvoice with params: salesorder=121903
+2018-11-23 12:09:07am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 12:09:07am - Attempting API call SOPackingSlip/121903.01 with params: 
+2018-11-23 12:09:07am - API call for SOPackingSlip/121903.01 OK! Response code: 200. Response message: OK
+2018-11-23 12:09:46am - Attempting API call SOSalesOrder/121903 with params: 
+2018-11-23 12:09:46am - API call for SOSalesOrder/121903 OK! Response code: 200. Response message: OK
+2018-11-23 12:09:46am - Attempting API call ARInvoice with params: salesorder=121903
+2018-11-23 12:09:47am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 12:09:47am - Attempting API call SOPackingSlip/121903.01 with params: 
+2018-11-23 12:09:47am - API call for SOPackingSlip/121903.01 OK! Response code: 200. Response message: OK
+2018-11-23 12:11:10am - Attempting API call SOSalesOrder/121871 with params: 
+2018-11-23 12:11:11am - API call for SOSalesOrder/121871 OK! Response code: 200. Response message: OK
+2018-11-23 12:12:11am - Attempting API call SOSalesOrder/121903 with params: 
+2018-11-23 12:12:11am - API call for SOSalesOrder/121903 OK! Response code: 200. Response message: OK
+2018-11-23 12:12:11am - Attempting API call ARInvoice with params: salesorder=121903
+2018-11-23 12:12:11am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 12:12:11am - Attempting API call SOPackingSlip/121903.01 with params: 
+2018-11-23 12:12:11am - API call for SOPackingSlip/121903.01 OK! Response code: 200. Response message: OK
+2018-11-23 12:14:04am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 12:14:04am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 12:14:28am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 12:14:28am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 12:14:42am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 12:14:42am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 12:14:50am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 12:14:50am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 12:15:09am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 12:15:09am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 12:15:36am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 12:15:36am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 12:16:15am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 12:16:15am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 12:36:56am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 12:36:57am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 12:36:57am - Error Body XML - Message: 
+2018-11-23 12:36:57am - Error Body XML - Message: 
+2018-11-23 12:36:58am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 12:36:59am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 12:36:59am - Error Body XML - Message: 
+2018-11-23 12:36:59am - Error Body XML - Message: 
+2018-11-23 12:38:17am - Attempting API call SOSalesOrder/121905 with params: 
+2018-11-23 12:38:17am - API call for SOSalesOrder/121905 OK! Response code: 200. Response message: OK
+2018-11-23 12:40:45am - Attempting API call SOSalesOrder/121905 with params: 
+2018-11-23 12:40:45am - API call for SOSalesOrder/121905 OK! Response code: 200. Response message: OK
+2018-11-23 12:40:45am - Attempting API call ARInvoice with params: salesorder=121905
+2018-11-23 12:40:45am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 12:40:45am - Attempting API call SOPackingSlip/121905.01 with params: 
+2018-11-23 12:40:46am - API call for SOPackingSlip/121905.01 OK! Response code: 200. Response message: OK
+2018-11-23 01:21:14am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 01:21:15am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 01:21:15am - Error Body XML - Message: 
+2018-11-23 01:21:15am - Error Body XML - Message: 
+2018-11-23 01:32:03am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 01:32:04am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 01:32:30am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 01:32:30am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 01:32:30am - Attempting API call ARInvoice with params: salesorder=121904
+2018-11-23 01:32:31am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 01:32:31am - Attempting API call SOPackingSlip/121904.01 with params: 
+2018-11-23 01:32:34am - API call for SOPackingSlip/121904.01 OK! Response code: 200. Response message: OK
+2018-11-23 01:32:46am - Attempting API call SOSalesOrder/121904 with params: 
+2018-11-23 01:32:47am - API call for SOSalesOrder/121904 OK! Response code: 200. Response message: OK
+2018-11-23 01:32:47am - Attempting API call ARInvoice with params: salesorder=121904
+2018-11-23 01:32:47am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 01:32:47am - Attempting API call SOPackingSlip/121904.01 with params: 
+2018-11-23 01:32:48am - API call for SOPackingSlip/121904.01 OK! Response code: 200. Response message: OK
+2018-11-23 04:08:28am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 04:08:29am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 04:08:29am - Error Body XML - Message: 
+2018-11-23 04:08:29am - Error Body XML - Message: 
+2018-11-23 05:14:42am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 05:14:43am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 05:14:43am - Error Body XML - Message: 
+2018-11-23 05:14:43am - Error Body XML - Message: 
+2018-11-23 05:22:03am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 05:22:04am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 05:22:04am - Error Body XML - Message: 
+2018-11-23 05:22:04am - Error Body XML - Message: 
+2018-11-23 05:22:58am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 05:22:59am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 05:22:59am - Error Body XML - Message: 
+2018-11-23 05:22:59am - Error Body XML - Message: 
+2018-11-23 05:26:46am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 05:26:46am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 05:26:46am - Error Body XML - Message: 
+2018-11-23 05:26:46am - Error Body XML - Message: 
+2018-11-23 05:29:18am - Attempting API call SOSalesOrder/ with params: 
+2018-11-23 05:29:19am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-23 05:29:19am - Error Body XML - Message: 
+2018-11-23 05:29:19am - Error Body XML - Message: 
+2018-11-23 06:08:02am - Attempting API call SOSalesOrder/121903 with params: 
+2018-11-23 06:08:02am - API call for SOSalesOrder/121903 OK! Response code: 200. Response message: OK
+2018-11-23 06:08:02am - Attempting API call ARInvoice with params: salesorder=121903
+2018-11-23 06:08:02am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 06:08:02am - Attempting API call SOPackingSlip/121903.01 with params: 
+2018-11-23 06:08:03am - API call for SOPackingSlip/121903.01 OK! Response code: 200. Response message: OK
+2018-11-23 06:08:08am - Attempting API call SOSalesOrder/121902 with params: 
+2018-11-23 06:08:09am - API call for SOSalesOrder/121902 OK! Response code: 200. Response message: OK
+2018-11-23 06:08:09am - Attempting API call ARInvoice with params: salesorder=121902
+2018-11-23 06:08:09am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 06:08:09am - Attempting API call SOPackingSlip/121902.01 with params: 
+2018-11-23 06:08:09am - API call for SOPackingSlip/121902.01 OK! Response code: 200. Response message: OK
+2018-11-23 06:08:21am - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-23 06:08:21am - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-23 06:08:21am - Attempting API call ARInvoice with params: salesorder=121882
+2018-11-23 06:08:21am - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-23 06:08:21am - Attempting API call SOPackingSlip/121882.01 with params: 
+2018-11-23 06:08:21am - API call for SOPackingSlip/121882.01 OK! Response code: 200. Response message: OK
+2018-11-23 06:08:21am - Attempting API call SOPackingSlip/121882.02 with params: 
+2018-11-23 06:08:21am - API call for SOPackingSlip/121882.02 OK! Response code: 200. Response message: OK
+2018-11-23 06:08:21am - Attempting API call SOPackingSlip/121882.03 with params: 
+2018-11-23 06:08:21am - API call for SOPackingSlip/121882.03 OK! Response code: 200. Response message: OK
+2018-11-24 12:47:04am - Attempting API call SOSalesOrder/121913 with params: 
+2018-11-24 12:47:05am - API call for SOSalesOrder/121913 OK! Response code: 200. Response message: OK
+2018-11-24 12:47:45am - Attempting API call SOSalesOrder/ with params: 
+2018-11-24 12:47:46am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-24 12:47:46am - Error Body XML - Message: 
+2018-11-24 12:47:46am - Error Body XML - Message: 
+2018-11-24 12:48:02am - Attempting API call SOSalesOrder/ with params: 
+2018-11-24 12:48:03am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-24 12:48:03am - Error Body XML - Message: 
+2018-11-24 12:48:03am - Error Body XML - Message: 
+2018-11-24 12:50:32am - Attempting API call SOSalesOrder/121913 with params: 
+2018-11-24 12:50:32am - API call for SOSalesOrder/121913 OK! Response code: 200. Response message: OK
+2018-11-24 12:54:28am - Attempting API call SOSalesOrder/ with params: 
+2018-11-24 12:54:28am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-24 12:54:28am - Error Body XML - Message: 
+2018-11-24 12:54:28am - Error Body XML - Message: 
+2018-11-24 12:55:24am - Attempting API call SOSalesOrder/121913 with params: 
+2018-11-24 12:55:24am - API call for SOSalesOrder/121913 OK! Response code: 200. Response message: OK
+2018-11-24 12:56:51am - Attempting API call SOSalesOrder/ with params: 
+2018-11-24 12:56:52am - API call for SOSalesOrder/ failed! Response code: 500. Response message: Internal Server Error
+2018-11-24 12:56:52am - Error Body XML - Message: 
+2018-11-24 12:56:52am - Error Body XML - Message: 
+2018-11-25 08:44:41pm - Attempting API call SOSalesOrder/121882 with params: 
+2018-11-25 08:44:45pm - API call for SOSalesOrder/121882 OK! Response code: 200. Response message: OK
+2018-11-25 08:44:45pm - Attempting API call ARInvoice with params: salesorder=121882
+2018-11-25 08:44:46pm - API call for ARInvoice OK! Response code: 200. Response message: OK
+2018-11-25 08:44:46pm - Attempting API call SOPackingSlip/121882.01 with params: 
+2018-11-25 08:44:47pm - API call for SOPackingSlip/121882.01 OK! Response code: 200. Response message: OK
+2018-11-25 08:44:47pm - Attempting API call SOPackingSlip/121882.02 with params: 
+2018-11-25 08:44:47pm - API call for SOPackingSlip/121882.02 OK! Response code: 200. Response message: OK
+2018-11-25 08:44:47pm - Attempting API call SOPackingSlip/121882.03 with params: 
+2018-11-25 08:44:47pm - API call for SOPackingSlip/121882.03 OK! Response code: 200. Response message: OK
+2018-11-25 09:57:34pm - Attempting API call SOSalesOrder/121913 with params: 
+2018-11-25 09:57:34pm - API call for SOSalesOrder/121913 OK! Response code: 200. Response message: OK
+2018-11-26 10:37:09pm - Attempting API call SOSalesOrder/121927 with params: 
+2018-11-26 10:37:10pm - API call for SOSalesOrder/121927 OK! Response code: 200. Response message: OK
+2018-11-29 09:34:33pm - Attempting API call SOSalesOrder/121929 with params: 
+2018-11-29 09:34:35pm - API call for SOSalesOrder/121929 OK! Response code: 200. Response message: OK

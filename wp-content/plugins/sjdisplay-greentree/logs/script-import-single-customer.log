@@ -1,0 +1,21 @@
+2018-10-25 02:44:33am - Attempting to run script script-import-single-customer.php
+2018-10-25 02:44:33am - Attempting API call Customer/23986 with params: page=1&pageSize=1&includeAttachments=true
+2018-10-25 02:44:33am - API call for Customer/23986 OK! Response code: 200. Response message: OK
+2018-10-29 11:01:20pm - Attempting to run script script-import-single-customer.php
+2018-10-29 11:01:20pm - Attempting API call Customer/22160 with params: page=1&pageSize=1&includeAttachments=true
+2018-10-29 11:01:22pm - API call for Customer/22160 OK! Response code: 200. Response message: OK
+2018-10-29 11:03:30pm - Attempting to run script script-import-single-customer.php
+2018-10-29 11:03:30pm - Attempting API call Customer/23000 with params: page=1&pageSize=1&includeAttachments=true
+2018-10-29 11:03:32pm - API call for Customer/23000 OK! Response code: 200. Response message: OK
+2018-10-29 11:04:22pm - Attempting to run script script-import-single-customer.php
+2018-10-29 11:04:22pm - Attempting API call Customer/23000 with params: page=1&pageSize=1&includeAttachments=true
+2018-10-29 11:04:23pm - API call for Customer/23000 OK! Response code: 200. Response message: OK
+2018-10-31 12:01:05am - Attempting to run script script-import-single-customer.php
+2018-10-31 12:01:05am - Attempting API call Customer/23003 with params: page=1&pageSize=1&includeAttachments=true
+2018-10-31 12:01:07am - API call for Customer/23003 OK! Response code: 200. Response message: OK
+2018-10-31 12:01:42am - Attempting to run script script-import-single-customer.php
+2018-10-31 12:01:42am - Attempting API call Customer/23003 with params: page=1&pageSize=1&includeAttachments=true
+2018-10-31 12:01:42am - API call for Customer/23003 OK! Response code: 200. Response message: OK
+2018-10-31 12:02:27am - Attempting to run script script-import-single-customer.php
+2018-10-31 12:02:27am - Attempting API call Customer/23003 with params: page=1&pageSize=1&includeAttachments=true
+2018-10-31 12:02:27am - API call for Customer/23003 OK! Response code: 200. Response message: OK
