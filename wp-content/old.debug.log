@@ -1,0 +1,164 @@
+[26-Sep-2018 01:29:30 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:29:30 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:29:30 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:29:30 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:29:30 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:29:30 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:31:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:31:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:31:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:31:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:31:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:31:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:31:59 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_VERSION already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 14
+[26-Sep-2018 01:31:59 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_PLUGIN_DIR already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 15
+[26-Sep-2018 01:31:59 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_PLUGIN_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 16
+[26-Sep-2018 01:31:59 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_SCRIPTS_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 17
+[26-Sep-2018 01:31:59 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_ASSETS_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 18
+[26-Sep-2018 01:31:59 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_LOG_DIR already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 19
+[26-Sep-2018 01:31:59 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_API_NAMESPACE already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 20
+[26-Sep-2018 01:31:59 UTC] PHP Fatal error:  Cannot declare class SJDisplay_Greentree, because the name is already in use in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/class.sjdisplay-greentree.php on line 3
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_VERSION already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 14
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_PLUGIN_DIR already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 15
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_PLUGIN_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 16
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_SCRIPTS_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 17
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_ASSETS_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 18
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_LOG_DIR already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 19
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_API_NAMESPACE already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 20
+[26-Sep-2018 01:32:00 UTC] PHP Fatal error:  Cannot declare class SJDisplay_Greentree, because the name is already in use in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/class.sjdisplay-greentree.php on line 3
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_VERSION already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 14
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_PLUGIN_DIR already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 15
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_PLUGIN_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 16
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_SCRIPTS_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 17
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_ASSETS_URL already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 18
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_LOG_DIR already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 19
+[26-Sep-2018 01:32:00 UTC] PHP Notice:  Constant SJDISPLAY_GREENTREE_API_NAMESPACE already defined in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/sjdisplay-greentree.php on line 20
+[26-Sep-2018 01:32:00 UTC] PHP Fatal error:  Cannot declare class SJDisplay_Greentree, because the name is already in use in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree.old/class.sjdisplay-greentree.php on line 3
+[26-Sep-2018 01:32:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:32:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:32:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:32:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:32:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:32:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:33:07 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:33:07 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:33:07 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:33:07 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:33:07 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:33:07 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:35:49 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:35:49 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:35:49 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:35:49 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:35:49 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:35:49 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:38:05 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:38:05 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:38:05 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:38:05 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:38:05 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:38:05 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:39:42 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:39:42 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:39:42 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:39:42 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:39:42 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:39:42 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:11 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:11 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:11 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:11 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:11 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:11 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:21 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:21 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:21 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:21 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:21 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:21 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:43 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:43 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:43 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:43 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:43 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:40:43 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:41:17 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:41:17 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:41:17 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:41:17 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:41:17 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:41:17 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:43:56 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:43:56 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:43:56 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:43:56 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:43:56 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:43:56 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:45:01 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:45:01 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:45:01 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:45:01 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:45:01 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:45:01 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:32 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:32 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:32 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:32 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:32 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:46:32 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:02 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:34 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:34 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:34 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:34 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:34 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:34 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:47:52 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:09 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:09 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:09 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:09 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:09 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:09 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:12 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:12 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:12 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:12 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:12 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 01:48:12 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /sites/au.sjdg.global/www/amcal/wp-includes/class-wp-list-util.php on line 150
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1241
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1242
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1243
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1247
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1249
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1241
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1242
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1243
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1247
+[26-Sep-2018 03:07:21 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1249
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1241
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1242
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1243
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1247
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1249
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1241
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1242
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1243
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1247
+[26-Sep-2018 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /sites/au.sjdg.global/www/amcal/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 1249
