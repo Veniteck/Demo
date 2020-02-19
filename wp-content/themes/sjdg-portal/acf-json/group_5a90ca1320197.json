@@ -1,0 +1,107 @@
+{
+    "key": "group_5a90ca1320197",
+    "title": "Login Page Settings",
+    "fields": [
+        {
+            "key": "field_5a90ca21ae3d7",
+            "label": "Background Image",
+            "name": "background_image",
+            "type": "image",
+            "instructions": "Please select the background image to use for this page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "url",
+            "preview_size": "thumbnail",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_5a90ca3cae3d8",
+            "label": "Form Description - Login",
+            "name": "login_form_description",
+            "type": "text",
+            "instructions": "Please enter the short description to use for the login form.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5a90ca4dae3d9",
+            "label": "Form Description - Reset Password",
+            "name": "reset_password_form_description",
+            "type": "text",
+            "instructions": "Please enter the short description to use for the reset password form.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5a90ca6aae3da",
+            "label": "Form Description - Resetting Password",
+            "name": "resetting_password_form_description",
+            "type": "text",
+            "instructions": "Please enter the short description to use for the resetting password form.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page_template",
+                "operator": "==",
+                "value": "templates\/login-page.php"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": [
+        "the_content"
+    ],
+    "active": 1,
+    "description": "",
+    "modified": 1519439004
+}

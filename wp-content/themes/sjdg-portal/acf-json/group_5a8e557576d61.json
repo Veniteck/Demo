@@ -1,0 +1,54 @@
+{
+    "key": "group_5a8e557576d61",
+    "title": "Page Header Settings",
+    "fields": [
+        {
+            "key": "field_5a8e557ddc115",
+            "label": "Tertiary Menu",
+            "name": "tertiary_menu",
+            "type": "select",
+            "instructions": "Please select the tertiary menu to use for this page, this will disable display of the title and description.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "none": "None",
+                "20": "Tertiary Navigation"
+            },
+            "default_value": [],
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "ajax": 0,
+            "return_format": "value",
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            },
+            {
+                "param": "page_template",
+                "operator": "!=",
+                "value": "templates\/login-page.php"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1519438904
+}
