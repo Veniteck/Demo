@@ -1,0 +1,101 @@
+/* ------------------------------------------------------------ *\
+	Footer
+\* ------------------------------------------------------------ */
+
+.footer {
+	min-height: 55px;
+	padding: 10px 0 15px;
+	background: $color-dark-grey;
+	font-size: 13px;
+	color: $color-white;
+
+	&__nav {
+		float: left;
+		padding-top: 5px;
+
+		ul {
+			&:after {
+				@include clearfix();
+			}
+
+			li {
+				float: left;
+
+				& + li {
+					position: relative;
+					padding-left: 16px;
+
+					&:before {
+						content: '';
+						position: absolute;
+						top: 4px;
+						left: 8px;
+						width: 1px;
+						height: 13px;
+						background: $color-lighter-grey3;
+					}
+				}
+
+				a {
+					text-decoration: none;
+				}
+			}
+		}
+	}
+
+	&__inner {
+		float: right;
+		color: $color-lighter-grey2;
+
+		.copyright {
+			display: inline-block;
+			vertical-align: middle;
+			padding-right: 17px;
+		}
+	}
+
+	&__logo {
+		display: inline-block;
+		max-width: 44px;
+	}
+
+	.credits {
+		color: $color-white;
+	}
+
+	@media #{$tablet} {
+		&__nav {
+			ul {
+				li {
+					a {
+						transition: $t-duration;
+
+						&:hover {
+							text-decoration: underline;
+							color: $color-orange2;
+						}
+					}
+				}
+			}
+		}
+	}
+
+	@media #{$mobile} {
+		font-size: 12px;
+
+		&__nav {
+			display: none;
+		}
+
+		&__inner {
+			width: 100%;
+			text-align: center;
+		}
+
+		&__logo {
+			display: block;
+			max-width: 50px;
+			margin: 10px auto;
+		}
+	}
+}

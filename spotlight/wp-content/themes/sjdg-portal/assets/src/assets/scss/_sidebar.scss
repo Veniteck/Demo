@@ -1,0 +1,25 @@
+/* ------------------------------------------------------------ *\
+	Sidebar
+\* ------------------------------------------------------------ */
+
+.sidebar {
+	float: left;
+	width: 225px;
+	padding-right: 6px;
+
+	&.fixed {
+		position: fixed;
+		top: 0;
+		padding-top:120px;
+	}
+
+	&.absolute {
+		position: absolute;
+		top: auto;
+		bottom: 20px;
+	}
+
+	@media #{$mobile} {
+		display: none;
+	}
+}

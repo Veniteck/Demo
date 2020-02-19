@@ -1,0 +1,62 @@
+/* ------------------------------------------------------------ *\
+	Variables
+\* ------------------------------------------------------------ */
+
+$font-family-sans-serif : 'news-gothic-std', sans-serif;
+
+$font-size-base 		: 14px;
+$font-size-base-mobile	: 12px;
+$line-height-base 		: 1.57;
+
+$t-duration 			:.3s;
+
+$shell-max-width 		: 1130px;
+$shell-gutter 			: 10px;
+
+$color-dark-grey 		: #404041;
+$color-dark-grey2 		: #4f4f4f;
+$color-light-grey 		: #9c9b9b;
+$color-light-grey2 		: #858585;
+$color-lighter-grey 	: #7e7f82;
+$color-lighter-grey2 	: #979799;
+$color-lighter-grey3 	: #808082;
+$color-lighter-grey4	: #efefef;
+$color-lighter-grey5	: #e8e8e8;
+$color-orange 			: #ffb718;
+$color-orange2 			: #eba712;
+$color-white 			: #fff;
+$color-black			: #000;
+$color-red              : rgb( 237,67,55 );
+
+$font-size-h1			: 34px;
+$font-size-h2 			: 24px;
+$font-size-h3			: 20px;
+$font-size-h4			: 16px;
+$font-size-h5 			: 14px;
+$font-size-h6 			: 12px;
+
+$font-size-h1-mobile    : 25px;
+$font-size-h2-mobile   	: 28px;
+
+$responsive-xxs 		: 374px;
+$responsive-xxs2  		: 479px;
+$responsive-xs  		: 767px;
+$responsive-xs2  		: 991px;
+$responsive-sm  		: 1023px;
+$responsive-md 			: 1200px;
+$responsive-md2 		: 1400px;
+
+$mobile-small 			: '(max-width: #{$responsive-xxs}) ';
+$mobile-small2 			: '(max-width: #{$responsive-xxs2}) ';
+$mobile 				: '(max-width: #{$responsive-xs}) ';
+$tablet-portrait2		: '(max-width: #{$responsive-xs2}) ';
+$tablet-portrait 		: '(max-width: #{$responsive-sm}) ';
+$tablet2 				: '(max-width: #{$responsive-sm}) ';
+$tablet 				: '(min-width: #{$responsive-sm + 1}) ';
+$small-desktop 			: '(max-width: #{$responsive-md}) ';
+$large-desktop 			: '(max-width: #{$responsive-md2}) ';
+$retina 				: '(min-resolution: 2dppx) ';
+
+
+// Usage
+// @media #{$small-desktop}

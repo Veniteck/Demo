@@ -1,0 +1,88 @@
+{
+    "key": "group_5a7bca0f6f7c5",
+    "title": "Site Settings",
+    "fields": [
+        {
+            "key": "field_5a7bca1b13157",
+            "label": "Site Logo",
+            "name": "site_main_logo",
+            "type": "image",
+            "instructions": "Please select the logo to use for this site.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "url",
+            "preview_size": "thumbnail",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_5a7bd35485655",
+            "label": "Products Archive Description",
+            "name": "products_archive_description",
+            "type": "wysiwyg",
+            "instructions": "Please enter the description to display at the top of the products archive page, Category pages and Tag pages.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 1,
+            "delay": 0
+        },
+        {
+            "key": "field_5b6bd60116897",
+            "label": "Downloads Page",
+            "name": "downloads_page",
+            "type": "page_link",
+            "instructions": "Please select the page to direct users to for the downloads link in their account. Leave this blank to disable the downloads link.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "page"
+            ],
+            "taxonomy": [],
+            "allow_null": 1,
+            "allow_archives": 0,
+            "multiple": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "theme-general-settings"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1533794023
+}

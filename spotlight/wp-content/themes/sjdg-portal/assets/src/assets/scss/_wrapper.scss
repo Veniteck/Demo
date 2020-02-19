@@ -1,0 +1,21 @@
+/* ------------------------------------------------------------ *\
+	Wrapper
+\* ------------------------------------------------------------ */
+
+.wrapper {
+	position: relative;
+	min-height: 100vh;
+	overflow: hidden;
+	//display:flex;
+	//flex-direction: column;
+
+	//.main, #primary{
+	//	flex:1;
+	//}
+}
+
+.admin-bar{
+	.wrapper{
+		min-height: calc( 100vh - 32px );
+	}
+}

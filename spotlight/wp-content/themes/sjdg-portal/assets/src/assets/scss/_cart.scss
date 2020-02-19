@@ -1,0 +1,47 @@
+/* ------------------------------------------------------------ *\
+	Cart
+\* ------------------------------------------------------------ */
+
+.main__inner .cart {
+	padding: 10px 0;
+
+	&__box {
+		margin-left: auto;
+		max-width: 400px;
+		padding: 50px 35px;
+		background: $color-orange;
+
+		table {
+			margin-bottom: 30px;
+		}
+
+		.btn {
+			width: 100%;
+		}
+	}
+
+	.form-promotion {
+		margin-right: -10px;
+	}
+
+	input.qty{
+		border: 3px solid #efefef;
+		width: 100px;
+		padding: 5px;
+		border-radius: 5px;
+		margin-top: -4px;
+		text-align: center;
+	}
+
+	@media #{$tablet-portrait2} {
+		&__box {
+			margin: 30px auto 0;
+		}
+	}
+
+	@media #{$mobile} {
+		&__box {
+			max-width: 100%;
+		}
+	}
+}

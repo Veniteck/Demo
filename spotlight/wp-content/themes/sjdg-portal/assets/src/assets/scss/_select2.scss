@@ -1,0 +1,80 @@
+/* ------------------------------------------------------------ *\
+	Select2
+\* ------------------------------------------------------------ */
+
+.select2-container--default {
+	.select2-selection--single {
+		position: relative;
+		height: 36px;
+		border: none;
+		border-radius: 0;
+		background: $color-lighter-grey4;
+		font-size: 14px;
+		line-height: 1;
+		letter-spacing: .01em;
+		padding: 11px 40px 11px 11px;
+
+		.select2-selection__rendered {
+			line-height: 1;
+		}
+
+		.select2-selection__arrow {
+			content: '';
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			width: 42px;
+			height: auto;
+			border-radius: 0;
+			cursor: pointer;
+
+			b {
+				width: 9px;
+				height: 9px;
+				border-color: $color-orange;
+				border-width: 3px 3px 0 0px;
+				margin: 0;
+				transform: translate(-50%, -50%) rotate(135deg);
+			}
+		}
+	}
+
+	.selection {
+		width: 100%;
+	}
+
+	&.select2-container--open {
+		.select2-selection--single {
+			.select2-selection__arrow {
+				b {
+					border-color: $color-orange;
+					border-width: 3px 3px 0 0px;
+				}
+			}
+		}
+
+		.select2-results {
+			.select2-results__option {
+				max-height: none;
+				text-transform: lowercase;
+			}
+		}
+	}
+
+	.select2-results__option--highlighted[aria-selected],
+	.select2-results__option[aria-selected=true] {
+		background: $color-orange;
+		color: $color-white;
+	}
+}
+
+.select2-dropdown {
+	border-radius: 0;
+	opacity: 0;
+	transition: opacity $t-duration;
+
+	&.visible {
+		opacity: 1;
+	}
+}

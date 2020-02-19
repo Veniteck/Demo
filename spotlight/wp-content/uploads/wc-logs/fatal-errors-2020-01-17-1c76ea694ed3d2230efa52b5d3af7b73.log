@@ -1,0 +1,6 @@
+2020-01-17T06:06:15+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /sites/au.sjdg.global/www/spotlight/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php:861
+Stack trace:
+#0 /sites/au.sjdg.global/www/spotlight/wp-content/plugins/sjdisplay-greentree/scripts/cron-sync-orders.php(48): SJDisplay_Greentree::sync_order(Object(WC_Order), true, 'cron-sync-order...')
+#1 {main}
+  thrown in /sites/au.sjdg.global/www/spotlight/wp-content/plugins/sjdisplay-greentree/class.sjdisplay-greentree.php on line 861
+

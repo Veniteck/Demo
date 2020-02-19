@@ -1,0 +1,306 @@
+#stripe-payment-data {
+	width:100%;
+	float:left;
+}
+
+
+.woocommerce{
+
+	&-error{
+		background: $color-dark-grey;
+		color: #FFF;
+		font-weight: bold;
+		text-transform: uppercase;
+		border-top: none;
+		padding: 15px;
+
+		&:before{
+			display:none;
+		}
+	}
+
+	&-message{
+		border-top: none;
+		padding: 15px;
+		color: #000;
+		background: $color-orange;
+		font-weight: bold;
+		text-transform: uppercase;
+
+		&:before{
+			display:none;
+		}
+	}
+
+	&-info{
+		padding: 15px;
+		font-weight: bold;
+		text-transform: uppercase;
+		border-top: none;
+
+		&:before{
+			display:none;
+		}
+	}
+
+	&-checkout-review-order-table{
+
+		ul#shipping_method{
+
+			padding-left:10px;
+
+			li{
+				text-indent: 0;
+				padding:0;
+				display:flex;
+				justify-content: flex-end;
+			}
+
+		}
+
+	}
+
+	&-additional-fields__field-wrapper{
+
+		.form__col{
+			padding:0!important;
+
+			label{
+				display:none!important;
+			}
+
+		}
+
+	}
+
+	#payment{
+		background: none;
+		border:none;
+		margin:0;
+		padding:0;
+
+		#place_order{
+			background-color: #ffb718;
+		}
+	}
+
+	&-checkout #payment{
+
+		ul.payment_methods{
+			margin:0;
+			padding:0;
+			display: flex;
+		}
+
+
+		.wc-terms-and-conditions{
+
+			margin-bottom:10px;
+
+			label{
+				padding:0 0 0 30px;
+			}
+
+		}
+
+		div.payment_box{
+			background: none;
+			padding: 0;
+
+			#stripe-payment-data{
+				p:first-child{
+					margin: 0;
+				}
+
+				.woocommerce-SavedPaymentMethods-saveNew{
+					margin:10px 0 0 0;
+					font-size:14px;
+				}
+
+			}
+
+			&:before{
+				display:none;
+				margin:0;
+				padding:0;
+			}
+
+			.form-row{
+				margin:0;
+				padding:0;
+			}
+
+		}
+
+		.StripeElement.invalid{
+			border:1px solid $color-orange2!important;
+		}
+
+	}
+
+	//input[disabled], select[disabled], input[readonly], select[readonly]{
+	//	padding: 0;
+	//	border: none;
+	//	background: rgb(235, 235, 228);
+	//	pointer-events: none;
+	//}
+
+	abbr.required{
+		display:none;
+	}
+
+	.freight_notice{
+		padding: 15px 0 13px 4px;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+
+	//#order_po_number, #order_comments {
+	//	background-color: #fff;
+	//	border-color: #ffb718;
+	//}
+
+	.form-row input.input-text {
+		border-color: $color-orange;
+	}
+
+	#checkout--contact{
+		margin-bottom:20px;
+
+		.form-row{
+			display:block;
+			min-width:100%;
+			margin-bottom:10px;
+			border:none;
+			padding:0;
+			flex-basis: 100%;
+			float:none;
+		}
+	}
+
+	.order-po-input{
+		margin-bottom:20px;
+	}
+
+	.woocommerce-additional-fields__field-wrapper{
+		margin-bottom:20px;
+	}
+
+	.flex-control-nav{
+		margin-top:20px!important;
+
+		li{
+			padding:0 20px;
+			width:33%!important;
+		}
+	}
+
+
+
+}
+
+/**
+
+ */
+.woocommerce ul.woocommerce-order-overview li{
+	margin:0!important;
+	padding: 10px!important;
+	width:100%;
+	border-right:none;
+
+	@media ( min-width: $responsive-xs){
+		width:50%;
+		&:nth-child(2n-1){
+			border-right:1px dashed #d3ced2;
+		}
+	}
+
+	@media ( min-width: $responsive-md ){
+		width:auto;
+		border-right:1px dashed #d3ced2;
+		&:last-child{
+			border-right:none;
+		}
+	}
+
+}
+
+
+
+
+#product--wrapper .woocommerce-product-gallery{
+	width:100%;
+}
+
+
+.woocommerce-NoticeGroup-checkout{
+
+	.woocommerce-error{
+		background: $color-red;
+		margin-bottom:20px;
+	}
+
+}
+
+
+.woocommerce form .form-row label {
+	font-weight: 700;
+	text-transform: uppercase;
+	//border-top: 2px solid #efefef;
+	padding-top:6px;
+}
+
+#order_po_number_field, .woocommerce-additional-fields__field-wrapper{
+
+	.field{
+		border: 2px solid #ffb718;
+		background: #FFF;
+	}
+
+}
+
+#order_po_number_field{
+
+	label{
+		padding-top:20px;
+	}
+
+}
+
+#billing-fields--intro{
+	margin-top: 20px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+.woocommerce-thankyou-order-received {
+	font-size: 20px;
+	margin-bottom: 30px;
+	background-color: #ffb718;
+	padding: 5px 10px;
+}
+
+.order_details .shipped_via {
+	display: none;
+}
+
+.sj-shipping-checkout-notification {
+	background: #ffb718;
+	padding: 20px 25px;
+	margin-top: 20px;
+	float: left;
+	clear: both;
+	text-transform: uppercase;
+
+	h4 {
+		text-decoration: underline;
+	}
+}
+
+.woo-amendment-warning {
+    background: #ffb718;
+    padding: 20px 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}

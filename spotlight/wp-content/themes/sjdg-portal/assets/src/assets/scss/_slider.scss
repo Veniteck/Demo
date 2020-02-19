@@ -1,0 +1,218 @@
+/* ------------------------------------------------------------ *\
+	Slider
+\* ------------------------------------------------------------ */
+
+.slider {
+	&--owl {
+		.slider__slides {
+			padding-top: 37px;
+
+			&--thumbs {
+				padding-top: 40px;
+
+				.slider__slide {
+					padding: 0 14px;
+				}
+			}
+		}
+	}
+}
+
+.owl-dots {
+	.owl-dot {
+		display: inline-block;
+		width: 8px;
+		height: 8px;
+		border-radius: 50%;
+		background: $color-white;
+		font-size: 0;
+		line-height: 0;
+
+		& + .owl-dot {
+			margin-left: 13px;
+		}
+
+		&.active {
+			background: $color-orange;
+		}
+	}
+
+	@media #{$tablet} {
+		.owl-dot {
+			transition: $t-duration;
+
+			&:hover {
+				background: $color-orange;
+			}
+		}
+	}
+}
+
+/* ------------------------------------------------------------ *\
+	Slider Main
+\* ------------------------------------------------------------ */
+
+.slider-main {
+	height: 100%;
+
+	.slider__slide {
+		position: relative;
+
+		&:after {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background: rgba(30,31,33, .3);
+			z-index: 1;
+		}
+
+		&:before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			z-index: 10;
+			background: linear-gradient(to bottom, rgba(30,31,33,1) 1%,rgba(30,31,33,1) 10%,rgba(30,31,33,0.05) 30%,rgba(30,31,33,0) 50%);
+		}
+
+		&-image {
+			@include imageCover();
+			@include full();
+		}
+	}
+
+	.owl-dots {
+		position: absolute;
+	}
+
+	@media #{$tablet} {
+		.slider__slide {
+			&-content {
+				&-actions {
+					.btn {
+						&:hover {
+							color: $color-black;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+/* ------------------------------------------------------------ *\
+	Slider Product
+\* ------------------------------------------------------------ */
+
+.slider-product {
+	.slider__slides {
+		position: relative;
+		min-height: 320px;
+
+		.owl-stage-outer,
+		.owl-stage,
+		.owl-item,
+		.slider__slide {
+			min-height: 320px;
+		}
+
+		.slider__slide {
+			&-image {
+				@include full();
+				@include imageCover();
+			}
+		}
+
+		.owl-dots {
+			position: absolute;
+			bottom: 13px;
+			right: 25px;
+
+			.owl-dot {
+				background: $color-dark-grey;
+
+				& + .owl-dot {
+					margin-left: 15px;
+				}
+
+				&.active {
+					background: $color-orange;
+				}
+			}
+		}
+
+		.owl-nav {
+			.owl-prev,
+			.owl-next {
+				position: absolute;
+				top: 48.5%;
+				left: 13px;
+				width: 24px;
+				height: 46px;
+				font-size: 0;
+				line-height: 46px;
+
+				span {
+					display: inline-block;
+					width: 24px;
+					height: 14px;
+					background: transparent url('../images/sprite/ico-arrow@2x.png') 0 0 no-repeat;
+					background-size: contain;
+					transform: translateY(-50%) rotate(-90deg);
+				}
+			}
+
+			.owl-next {
+				left: auto;
+				right: 18px;
+
+				span {
+					transform: translateY(-50%) rotate(90deg);
+				}
+			}
+		}
+	}
+
+	@media #{$tablet} {
+		.slider__slides {
+			.owl-dots {
+				.owl-dot {
+					transition: $t-duration;
+
+					&:hover {
+						background: $color-orange;
+					}
+				}
+			}
+
+			.owl-prev,
+			.owl-next {
+				transition: opacity $t-duration;
+
+				&:hover {
+					opacity: .8;
+				}
+			}
+		}
+	}
+
+	@media #{$mobile} {
+		.slider-product {
+			.slider__slides {
+				min-height: 225px;
+
+				.owl-stage-outer,
+				.owl-stage,
+				.owl-item,
+				.slider__slide {
+					min-height: 225px;
+				}
+			}
+		}
+	}
+}

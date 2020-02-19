@@ -1,0 +1,65 @@
+/* ------------------------------------------------------------ *\
+	Grid
+\* ------------------------------------------------------------ */
+
+.grid {
+	span {
+		display: inline-block;
+		vertical-align: middle;
+		padding-right: 10px;
+		font-size: 14px;
+		line-height: 1;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0;
+	}
+
+	.btn-grid {
+		position: relative;
+		text-decoration: none;
+
+		& + .btn-grid {
+			margin-left: 7px;
+		}
+
+		i {
+			&:last-child {
+				position: absolute;
+				top: 0;
+				left: 0;
+				opacity: 0;
+				visibility: hidden;
+				transition: opacity $t-duration, visibility $t-duration;
+			}
+		}
+
+		&.active {
+			i {
+				&:last-child {
+					opacity: 1;
+					visibility: visible;
+				}
+			}
+		}
+	}
+
+	@media #{$tablet} {
+		.btn-grid {
+			&:hover {
+				i {
+					&:last-child {
+						opacity: 1;
+						visibility: visible;
+					}
+				}
+			}
+		}
+	}
+
+	@media #{$mobile} {
+		span {
+			padding-right: 4px;
+			font-size: 11px;
+		}
+	}
+}

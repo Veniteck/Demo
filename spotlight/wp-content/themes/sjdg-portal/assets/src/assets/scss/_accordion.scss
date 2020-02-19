@@ -1,0 +1,87 @@
+/* ------------------------------------------------------------ *\
+	Accordion
+\* ------------------------------------------------------------ */
+
+.accordion {
+	&__section {
+		padding: 0 20px;
+		margin-bottom: 15px;
+		background: $color-lighter-grey4;
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+
+		.accordion__head {
+			position: relative;
+			padding: 24px 30px 23px 0;
+			cursor: pointer;
+
+			h3 {
+				line-height: 1;
+			}
+
+			&:after {
+				content: '';
+				position: absolute;
+				top: 40%;
+				transform: translateY(-50%);
+				right: 4px;
+				width: 23px;
+				height: 13px;
+				background: url('../images/sprite/ico-arrow@2x.png') 0 0 no-repeat;
+				background-size: 100% 100%;
+				transform: rotate(180deg);
+				transition: transform $t-duration;
+			}
+		}
+
+		.accordion__body {
+			display: none;
+			padding-bottom: 32px;
+		}
+
+		&.active {
+			.accordion__head {
+				padding-bottom: 15px;
+
+				&:after {
+					transform: rotate(360deg);
+				}
+			}
+		}
+	}
+
+	@media #{$tablet} {
+		.accordion__head {
+			transition: $t-duration;
+
+			&:hover {
+				color: $color-orange2;
+			}
+		}
+	}
+
+	@media #{$tablet-portrait2} {
+		.accordion__head {
+			h3 {
+				font-size: 16px;
+			}
+		}
+
+		.accordion__body {
+			font-size: 14px;
+		}
+	}
+
+	@media #{$mobile} {
+		width: calc(100% + 50px);
+		margin: 0 -20px;
+
+		.accordion__head {
+			h3 {
+				font-size: 16px;
+			}
+		}
+	}
+}

@@ -1,0 +1,93 @@
+/* ------------------------------------------------------------ *\
+	Article
+\* ------------------------------------------------------------ */
+
+.article {
+
+}
+
+
+/* ------------------------------------------------------------ *\
+	Article Single
+\* ------------------------------------------------------------ */
+
+.article-single {
+	padding-right: 10px;
+
+	a:not(.btn) {
+		text-decoration: none;
+	}
+
+	.article__image {
+		margin: 50px 0 26px;
+
+		a {
+			width: 100%;
+		}
+
+		img {
+			width: 100%;
+		}
+
+		.article__caption {
+			padding: 15px 20px 21px;
+			background: $color-lighter-grey4;
+			font-size: 14px;
+			line-height: 1.57;
+			font-style: italic;
+		}
+	}
+
+	.video {
+		margin: 62px 0 26px;
+	}
+
+	@media #{$tablet} {
+		a:not(.btn) {
+			transition: $t-duration;
+
+			&:hover {
+				text-decoration: underline;
+				color: $color-orange2;
+			}
+		}
+	}
+
+	@media #{$mobile} {
+		.article__image {
+			width: calc(100% + 50px);
+			margin: 50px -20px 26px;
+		}
+
+		.video {
+			width: calc(100% + 50px);
+			margin: 62px -20px 26px;
+		}
+	}
+}
+
+/* ------------------------------------------------------------ *\
+	Article Orders
+\* ------------------------------------------------------------ */
+
+.article-orders {
+	h1 {
+		margin-top: -6px;
+		margin-bottom: 4px;
+		font-size: 30px;
+		line-height: 1.2;
+	}
+
+	p {
+		margin-bottom: 24px;
+	}
+
+	@media #{$mobile} {
+		padding-right: 0;
+
+		h1 {
+			margin-top: 0;
+			margin-bottom: 4px;
+		}
+	}
+}
