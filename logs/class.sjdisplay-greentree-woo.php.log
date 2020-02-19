@@ -1,8 +1,0 @@
-2019-01-31 02:22:25am - Attempting API call SOSalesOrder/124676 with params: 
-2019-01-31 02:22:25am - API call for SOSalesOrder/124676 OK! Response code: 200. Response message: OK
-2019-01-31 02:27:31am - Attempting API call SOSalesOrder/124677 with params: 
-2019-01-31 02:27:32am - API call for SOSalesOrder/124677 OK! Response code: 200. Response message: OK
-2019-01-31 02:28:16am - Attempting API call SOSalesOrder/124677 with params: 
-2019-01-31 02:28:16am - API call for SOSalesOrder/124677 failed! Response code: 404. Response message: Not Found
-2019-01-31 02:28:16am - Error Body XML - Message: 
-2019-01-31 02:28:16am - Error Body XML - Message: Sales Order 124677 could not be found
